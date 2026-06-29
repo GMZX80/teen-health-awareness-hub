@@ -245,6 +245,110 @@ summary {
   font-weight: 800;
 }
 
+.callout-link {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 1.2rem;
+  padding: 1.2rem;
+  background: var(--soft);
+  border: 1px solid rgba(18, 107, 99, 0.24);
+}
+
+.callout-link p {
+  margin-bottom: 0;
+}
+
+.callout-link .primary-action {
+  display: inline-flex;
+  align-items: center;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.pathway-hero {
+  background:
+    linear-gradient(110deg, rgba(56, 95, 158, 0.94), rgba(25, 33, 42, 0.84)),
+    url("https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=1800&q=80");
+  background-position: center;
+  background-size: cover;
+}
+
+.ladder {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.ladder article {
+  position: relative;
+  min-height: 260px;
+  padding-top: 3.8rem;
+}
+
+.ladder span {
+  position: absolute;
+  top: 1.1rem;
+  left: 1.1rem;
+  width: 2rem;
+  height: 2rem;
+  display: inline-grid;
+  place-items: center;
+  background: var(--accent-3);
+  color: #fff;
+  font-weight: 900;
+}
+
+.pathway-table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+  background: var(--white);
+}
+
+.pathway-table {
+  width: 100%;
+  min-width: 1180px;
+  border-collapse: collapse;
+}
+
+.pathway-table th,
+.pathway-table td {
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 0.85rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.pathway-table th {
+  background: #e8eef7;
+  color: #294a7f;
+  font-size: 0.76rem;
+  text-transform: uppercase;
+}
+
+.pathway-table td {
+  background: #fff;
+}
+
+.pathway-table tbody tr:nth-child(even) td {
+  background: #f8fafb;
+}
+
+.pathway-table td:first-child {
+  width: 11rem;
+  color: var(--accent-3);
+}
+
+.service-matrix td:first-child {
+  width: 12rem;
+}
+
+.static-sources {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
 footer {
   padding: 2rem 1rem;
   color: var(--muted);
@@ -489,7 +593,9 @@ textarea {
   .issue-grid,
   .two-column,
   .timeline,
+  .ladder,
   .resource-list,
+  .static-sources,
   .form-grid,
   .summary-grid {
     grid-template-columns: 1fr;
@@ -502,5 +608,14 @@ textarea {
   .tool-heading-row {
     align-items: stretch;
     flex-direction: column;
+  }
+
+  .callout-link {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .callout-link .primary-action {
+    justify-content: center;
   }
 }

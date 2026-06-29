@@ -238,5 +238,71 @@
     "url": "https://www.childline.org.uk/",
     "summary": "Free, confidential support service for young people under 19, including phone and online counselling options.",
     "tags": ["Childline", "young people", "support"]
+  },
+  {
+    "title": "Northumberland threshold document: Continuum of Help and Support",
+    "url": "https://northumberlandcs.trixonline.co.uk/chapter/threshold-document-continuum-of-help-and-support",
+    "summary": "Northumberland children's services framework explaining four levels of need: universal services, early help, child in need/statutory or specialist support, and child protection.",
+    "tags": ["Northumberland", "thresholds", "safeguarding"]
+  },
+  {
+    "title": "Northumberland Family Hubs: Early Help",
+    "url": "https://www.familyhubsnorthumberland.co.uk/early-help",
+    "summary": "Local information on Early Help support requests, MARF, Early Help Assessment, action plans and Team Around the Family guidance.",
+    "tags": ["Northumberland", "Early Help", "Family Hubs"]
+  },
+  {
+    "title": "Be You Northumberland: Universal Support",
+    "url": "https://www.beyounorthumberland.nhs.uk/support/professionals-support/support-for-your-school",
+    "summary": "Northumberland graduated mental-health support information for professionals, including school nursing, Primary Mental Health Work, educational psychology and referral points.",
+    "tags": ["Northumberland", "Be You", "mental health pathway"]
+  },
+  {
+    "title": "CNTW: CYPS Northumberland",
+    "url": "https://www.cntw.nhs.uk/services/children-and-young-peoples-service-northumberland-cntw165",
+    "summary": "Northumberland Children and Young People's Service information, including referral route, contact options and urgent-referral guidance.",
+    "tags": ["CNTW", "CYPS", "Northumberland"]
+  },
+  {
+    "title": "CNTW: CYPS Northumberland referrer form",
+    "url": "https://www.cntw.nhs.uk/services/children-and-young-peoples-service-northumberland-cntw165/community-children-and-young-peoples-service-northumberland-referrer-form",
+    "summary": "CYPS Northumberland referral routes and criteria, including previous intervention information, consent, risk and essential referral details.",
+    "tags": ["CNTW", "CYPS", "referral"]
+  },
+  {
+    "title": "DfE: Promoting and supporting mental health and wellbeing in schools and colleges",
+    "url": "https://www.gov.uk/guidance/promoting-and-supporting-mental-health-and-wellbeing-in-schools-and-colleges",
+    "summary": "Government guidance on whole-school mental health approaches, mental health support teams, targeted support, referral, attendance and local authority responsibilities.",
+    "tags": ["DfE", "school", "mental health"]
+  },
+  {
+    "title": "DfE: Working Together to Safeguard Children",
+    "url": "https://www.gov.uk/government/publications/working-together-to-safeguard-children--2",
+    "summary": "Statutory guidance on multi-agency working to help, support and protect children in England.",
+    "tags": ["DfE", "safeguarding", "statutory guidance"]
+  },
+  {
+    "title": "DfE and DHSC: SEND code of practice",
+    "url": "https://www.gov.uk/government/publications/send-code-of-practice-0-to-25",
+    "summary": "National guidance on duties and processes for children and young people aged 0 to 25 with special educational needs and disabilities.",
+    "tags": ["SEND", "DfE", "DHSC"]
+  },
+  {
+    "title": "DfE: Secure children's homes guidance",
+    "url": "https://www.gov.uk/guidance/secure-childrens-homes-how-to-place-a-child-aged-under-13",
+    "summary": "Government guidance on secure welfare placement criteria and process, including the strict legal threshold and required evidence.",
+    "tags": ["DfE", "secure accommodation", "social care"]
+  },
+  {
+    "title": "Secure Children's Homes",
+    "url": "https://www.securechildrenshomes.org.uk/",
+    "summary": "National information on secure children's homes in England and Wales, including residential care, education and health provision for young people with complex needs.",
+    "tags": ["secure accommodation", "children in care", "specialist support"]
+  },
+  {
+    "title": "NHS 111 mental health option: North East and North Cumbria",
+    "url": "https://northeastnorthcumbria.nhs.uk/here-to-help-you/looking-after-your-mental-health/nhs-111-select-mental-health-option/",
+    "summary": "Regional NHS information on calling 111 and selecting the mental health option for urgent mental health help for all ages, including children and young people.",
+    "tags": ["NHS 111", "crisis", "North East"]
   }
 ]
