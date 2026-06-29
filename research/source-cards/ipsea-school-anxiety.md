@@ -22,7 +22,7 @@ Education rights charity page on school anxiety, SEN links, and the importance o
 - H1: School anxiety
 - Meta description: We regularly advise and support families whose school-aged children are unable to access education because of anxiety or similar difficulties – very often associated with the child’s SEN. This was previously called ‘school refusal’ but is also more accurately called emotionally-based school avoidanc
 - Size recorded: 74611 bytes
-- Retrieval time: 138 ms
+- Retrieval time: 126 ms
 
 ## Retrieved Headings
 

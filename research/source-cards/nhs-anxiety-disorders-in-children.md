@@ -22,7 +22,7 @@ Explains when anxiety may be affecting day-to-day life enough to need profession
 - H1: Anxiety disorders in children
 - Meta description: Read about anxiety disorders in children and teenagers, with links to other useful resources.
 - Size recorded: 35088 bytes
-- Retrieval time: 32 ms
+- Retrieval time: 30 ms
 
 ## Retrieved Headings
 

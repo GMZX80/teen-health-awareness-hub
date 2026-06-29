@@ -22,7 +22,7 @@ Northumberland autism family drop-in information signposted by local support.
 - H1: not retrieved
 - Meta description: Made with Padlet
 - Size recorded: 41879 bytes
-- Retrieval time: 332 ms
+- Retrieval time: 294 ms
 
 ## Retrieved Headings
 

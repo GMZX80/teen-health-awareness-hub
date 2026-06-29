@@ -22,7 +22,7 @@ NHS advice on getting support for self-harm or thoughts of self-harm, including 
 - H1: Where to get help for self-harm
 - Meta description: Self-harm is when somebody intentionally damages or injures their body and is a sign of emotional distress. Support is available for anyone who self-harms or thinks about self-harm, as well as their friends and family.
 - Size recorded: 31850 bytes
-- Retrieval time: 34 ms
+- Retrieval time: 42 ms
 
 ## Retrieved Headings
 

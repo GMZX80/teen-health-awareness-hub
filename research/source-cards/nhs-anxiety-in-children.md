@@ -22,7 +22,7 @@ Parent-facing overview of anxiety in children, including signs, support ideas, a
 - H1: Anxiety in children
 - Meta description: How to help your child deal with anxiety about things such as going to school or socialising with friends. Also, how to tell when it&#x27;s time to get medical help.
 - Size recorded: 39762 bytes
-- Retrieval time: 157 ms
+- Retrieval time: 162 ms
 
 ## Retrieved Headings
 

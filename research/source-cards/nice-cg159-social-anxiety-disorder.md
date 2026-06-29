@@ -22,7 +22,7 @@ Clinical guideline covering recognition, assessment, and treatment of social anx
 - H1: Social anxiety disorder: recognition, assessment and treatment
 - Meta description: This guideline covers recognising, assessing and treating social anxiety disorder (also known as &#x2018;social phobia&#x2019;) in children and young people (from school age to 17 years) and adults (aged 18 years and older). It aims to improve symptoms, educational, occupational and social functioni
 - Size recorded: 22829 bytes
-- Retrieval time: 167 ms
+- Retrieval time: 166 ms
 
 ## Retrieved Headings
 

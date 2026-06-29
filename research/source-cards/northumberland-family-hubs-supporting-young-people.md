@@ -22,7 +22,7 @@ Family Hubs page describing local support services for children, young people, a
 - H1: SUPPORTING YOUNG PEOPLE
 - Meta description: Find out more about how Family Hubs Northumberland supports children and young people.
 - Size recorded: 843179 bytes
-- Retrieval time: 77 ms
+- Retrieval time: 151 ms
 
 ## Retrieved Headings
 

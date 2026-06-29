@@ -22,7 +22,7 @@ ADHD information and resources signposted by local support. Review alongside NHS
 - H1: not retrieved
 - Meta description: The UK ADHD Partnership supports clinicians and allied professionals to identify and meet the needs of children and young people affected by this disorder. ADHD is now recognised as a condition that may cross the lifespan and there are multi-modal interventions for ADHD that can be delivered at ever
 - Size recorded: 14320 bytes
-- Retrieval time: 282 ms
+- Retrieval time: 188 ms
 
 ## Retrieved Headings
 

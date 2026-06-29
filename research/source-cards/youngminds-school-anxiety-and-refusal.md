@@ -22,7 +22,7 @@ Practical parent guide on school anxiety, emotionally based school avoidance lan
 - H1: School anxiety and refusal
 - Meta description: If your child is anxious about school, or cannot go to school at all, read our tips and advice on how you can support their mental health.
 - Size recorded: 231063 bytes
-- Retrieval time: 300 ms
+- Retrieval time: 385 ms
 
 ## Retrieved Headings
 

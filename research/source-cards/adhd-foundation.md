@@ -22,7 +22,7 @@ UK neurodiversity charity with resources and training around ADHD and related ne
 - H1: The ADHD Foundation Neurodiversity Charity - an integrated health and education service
 - Meta description: The ADHD Foundation Neurodiversity Charity - an integrated health and education service.
 - Size recorded: 52632 bytes
-- Retrieval time: 295 ms
+- Retrieval time: 297 ms
 
 ## Retrieved Headings
 

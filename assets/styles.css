@@ -145,7 +145,8 @@ li + li {
 
 .quick-grid,
 .principles,
-.three-column {
+.three-column,
+.issue-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 1rem;
@@ -228,6 +229,18 @@ article,
   font-weight: 700;
 }
 
+details {
+  margin-top: 0.85rem;
+  border-top: 1px solid var(--line);
+  padding-top: 0.85rem;
+}
+
+summary {
+  cursor: pointer;
+  color: var(--accent);
+  font-weight: 800;
+}
+
 footer {
   padding: 2rem 1rem;
   color: var(--muted);
@@ -238,6 +251,7 @@ footer {
   .quick-grid,
   .principles,
   .three-column,
+  .issue-grid,
   .two-column,
   .timeline,
   .resource-list {

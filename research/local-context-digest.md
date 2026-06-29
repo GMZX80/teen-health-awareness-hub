@@ -2,15 +2,32 @@
 
 Access date: 2026-06-29
 
-This digest turns the retrieved headings and source cards into a practical map. It should be refreshed periodically because local services, Padlets, courses, and drop-in sessions can change.
+This digest turns the retrieved headings and source cards into a practical map. It should be refreshed periodically because UK guidance, local services, Padlets, courses, and drop-in sessions can change.
 
 ## What Was Retrievable
 
-- 22 public source links are tracked in `data/sources.json`.
-- 21 links were reachable by automated fetch.
-- 1 link, Mind's helpline directory, returned HTTP 403 to automated fetch. The link is still retained for manual use.
+- 40 public source links are tracked in `data/sources.json`.
+- 36 links were reachable by automated fetch.
+- 4 links returned HTTP 403 to automated fetch: Mind's helpline directory, NSPCC online safety, NSPCC social media safety, and Childline. The links are still retained for manual use.
 - Padlet pages returned titles and descriptions but not their internal post lists through simple fetch.
 - The local emotional wellbeing strategy is a PDF, so the retrieval script stored document metadata rather than copying PDF content.
+
+## UK-Wide Guide Expansion
+
+The public guide now adds quick-read and deeper expandable sections for:
+
+- Anxiety and panic.
+- Low mood and depression.
+- Self-harm and suicidal thoughts.
+- School avoidance.
+- Nausea and physical symptoms.
+- Sleep.
+- Eating, body image and weight concerns.
+- OCD and intrusive thoughts.
+- Bullying, social media and online safety.
+- Drugs, alcohol and risky coping.
+- ADHD, autism and SEND overlap.
+- Trauma, bereavement and family stress.
 
 ## Northumberland Local Routes
 
@@ -149,4 +166,3 @@ Practical use:
 
 - Keep urgent routes separate and easy to find.
 - Do not wait for routine support if there is immediate risk of harm, overdose, serious injury, or inability to stay safe.
-

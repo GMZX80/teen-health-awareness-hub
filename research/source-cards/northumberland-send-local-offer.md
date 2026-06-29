@@ -22,7 +22,7 @@ Local Offer information and signposting for children and young people aged 0-25 
 - H1: Welcome to your SEND Local Offer for Northumberland
 - Meta description: Northumberland
 - Size recorded: 1086837 bytes
-- Retrieval time: 239 ms
+- Retrieval time: 349 ms
 
 ## Retrieved Headings
 

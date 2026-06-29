@@ -21,8 +21,8 @@ Northumberland Family Hubs page for free online courses for parents, carers, gra
 - Page title: Free Online Courses | Family Hubs
 - H1: FREE ONLINE COURSES
 - Meta description: For all parents, carers, grandparents and teens in Northumberland. Find out more about these free online guides. Learn from home.
-- Size recorded: 802557 bytes
-- Retrieval time: 274 ms
+- Size recorded: 806715 bytes
+- Retrieval time: 234 ms
 
 ## Retrieved Headings
 

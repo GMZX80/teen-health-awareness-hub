@@ -22,7 +22,7 @@ How to get immediate expert advice and assessment for a mental health crisis or 
 - H1: Where to get urgent help for mental health
 - Meta description: You may need urgent help for mental health for many different reasons. Some people call it a crisis, an emergency or a breakdown. It&#x27;s important to know that support is available, whatever you&#x27;re going through.
 - Size recorded: 27515 bytes
-- Retrieval time: 31 ms
+- Retrieval time: 36 ms
 
 ## Retrieved Headings
 

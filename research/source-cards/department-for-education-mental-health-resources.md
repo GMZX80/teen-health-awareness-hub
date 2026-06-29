@@ -22,7 +22,7 @@ Government collection of mental health resources for children, young people, par
 - H1: Mental health resources for children, students, parents, carers and school/college staff
 - Meta description: This article was updated on 19 March 2024 to reflect the latest information. We have put together some useful links and sources of mental health support so that children and young people, parents, carers, and school and college staff can get
 - Size recorded: 79647 bytes
-- Retrieval time: 470 ms
+- Retrieval time: 640 ms
 
 ## Retrieved Headings
 

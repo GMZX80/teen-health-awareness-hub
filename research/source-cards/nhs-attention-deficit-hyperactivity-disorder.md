@@ -22,7 +22,7 @@ NHS overview of ADHD symptoms, diagnosis, support, and treatment.
 - H1: ADHD in children and young people
 - Meta description: Find out about ADHD (attention deficit hyperactivity disorder) in children and teenagers, the symptoms of ADHD, how to get a diagnosis and how to manage it.
 - Size recorded: 48808 bytes
-- Retrieval time: 267 ms
+- Retrieval time: 179 ms
 
 ## Retrieved Headings
 

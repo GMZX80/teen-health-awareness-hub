@@ -130,5 +130,113 @@
     "url": "https://padlet.com/nies1/autism-family-drop-ins-dvzo6qc3uofhtnws",
     "summary": "Northumberland autism family drop-in information signposted by local support.",
     "tags": ["Northumberland", "autism", "drop-in"]
+  },
+  {
+    "title": "NHS: Worried about your teenager?",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/worried-about-your-teenager/",
+    "summary": "NHS parent guidance on recognising when teenage behaviour may signal more serious concerns, including depression, eating disorders and drugs.",
+    "tags": ["NHS", "teenagers", "parents"]
+  },
+  {
+    "title": "NHS Every Mind Matters: Children's mental health",
+    "url": "https://www.nhs.uk/every-mind-matters/supporting-others/childrens-mental-health/",
+    "summary": "NHS advice for parents and carers on supporting children and young people's mental wellbeing and spotting signs of struggle.",
+    "tags": ["NHS", "wellbeing", "parents"]
+  },
+  {
+    "title": "Royal College of Psychiatrists: Young people's mental health",
+    "url": "https://www.rcpsych.ac.uk/mental-health/parents-and-young-people",
+    "summary": "Evidence-based mental health information for children, young people, parents and carers, written by psychiatrists with young people.",
+    "tags": ["RCPsych", "clinical", "young people"]
+  },
+  {
+    "title": "Royal College of Psychiatrists: Self-harm in children and young people",
+    "url": "https://www.rcpsych.ac.uk/mental-health/parents-and-young-people/self-harm-in-children-and-young-people",
+    "summary": "Detailed information for young people and parents/carers about self-harm, why it may happen and how to seek help.",
+    "tags": ["RCPsych", "self-harm", "parents"]
+  },
+  {
+    "title": "NICE NG225: Self-harm",
+    "url": "https://www.nice.org.uk/guidance/ng225",
+    "summary": "NICE guideline on assessment, management and preventing recurrence after self-harm, including children and young people.",
+    "tags": ["NICE", "self-harm", "guideline"]
+  },
+  {
+    "title": "NICE NG134: Depression in children and young people",
+    "url": "https://www.nice.org.uk/guidance/ng134",
+    "summary": "NICE guideline covering identification and management of depression in children and young people aged 5 to 18.",
+    "tags": ["NICE", "depression", "guideline"]
+  },
+  {
+    "title": "NICE NG69: Eating disorders",
+    "url": "https://www.nice.org.uk/guidance/ng69",
+    "summary": "NICE guideline covering assessment, treatment, monitoring and inpatient care for children, young people and adults with eating disorders.",
+    "tags": ["NICE", "eating disorders", "guideline"]
+  },
+  {
+    "title": "NHS England: Eating disorder services for children and young people",
+    "url": "https://www.england.nhs.uk/long-read/eating-disorder-services-for-children-and-young-people-national-guidance/",
+    "summary": "NHS England national guidance on children and young people's eating disorder services and links with wider mental health needs.",
+    "tags": ["NHS England", "eating disorders", "services"]
+  },
+  {
+    "title": "YoungMinds: Parents A-Z mental health guide",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/",
+    "summary": "YoungMinds parent/carer A-Z guide covering feelings, behaviour, mental health conditions and life events.",
+    "tags": ["YoungMinds", "parents", "A-Z"]
+  },
+  {
+    "title": "YoungMinds: Self-harm",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/self-harm/",
+    "summary": "Parent guide explaining self-harm, possible reasons behind it and ways to seek support.",
+    "tags": ["YoungMinds", "self-harm", "parents"]
+  },
+  {
+    "title": "YoungMinds: Bullying",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/bullying/",
+    "summary": "Parent guide on spotting signs of bullying, supporting a child and getting help through school or wider support.",
+    "tags": ["YoungMinds", "bullying", "school"]
+  },
+  {
+    "title": "YoungMinds: Social media",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/social-media/",
+    "summary": "Parent guide on social media, online experiences and talking to children about internet use.",
+    "tags": ["YoungMinds", "social media", "online safety"]
+  },
+  {
+    "title": "YoungMinds: OCD",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/ocd/",
+    "summary": "Parent guide explaining obsessive-compulsive disorder, support options and treatment routes.",
+    "tags": ["YoungMinds", "OCD", "anxiety"]
+  },
+  {
+    "title": "YoungMinds: Drugs and alcohol",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/drugs-and-alcohol/",
+    "summary": "Parent guide with tips for talking about alcohol and drugs and finding support if use is concerning.",
+    "tags": ["YoungMinds", "drugs", "alcohol"]
+  },
+  {
+    "title": "NSPCC Learning: Child mental health",
+    "url": "https://learning.nspcc.org.uk/child-health-development/child-mental-health",
+    "summary": "NSPCC guidance for recognising and responding to child mental health concerns, including vulnerability and safeguarding context.",
+    "tags": ["NSPCC", "safeguarding", "mental health"]
+  },
+  {
+    "title": "NSPCC: Online safety",
+    "url": "https://www.nspcc.org.uk/keeping-children-safe/online-safety/",
+    "summary": "NSPCC guidance on protecting children from online harms, parental controls, reporting concerns and compulsive device use.",
+    "tags": ["NSPCC", "online safety", "parents"]
+  },
+  {
+    "title": "NSPCC: Social media safety",
+    "url": "https://www.nspcc.org.uk/keeping-children-safe/online-safety/social-media/",
+    "summary": "NSPCC advice on social media safety, privacy settings, platform features and open conversations.",
+    "tags": ["NSPCC", "social media", "online safety"]
+  },
+  {
+    "title": "Childline",
+    "url": "https://www.childline.org.uk/",
+    "summary": "Free, confidential support service for young people under 19, including phone and online counselling options.",
+    "tags": ["Childline", "young people", "support"]
   }
 ]

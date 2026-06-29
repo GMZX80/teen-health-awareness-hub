@@ -22,7 +22,7 @@ Local Padlet explaining free services and parenting support available through No
 - H1: not retrieved
 - Meta description: This Padlet explains the range of free services available for parenting support in Northumberland.
 - Size recorded: 42483 bytes
-- Retrieval time: 399 ms
+- Retrieval time: 361 ms
 
 ## Retrieved Headings
 

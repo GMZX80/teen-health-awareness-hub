@@ -22,7 +22,7 @@ School-focused resource on the relationship between mental wellbeing and reduced
 - H1: School attendance and mental wellbeing
 - Meta description: Support school attendance with resources linking mental health to non-attendance. Includes guidance, strategies, and a case study for staff.
 - Size recorded: 83924 bytes
-- Retrieval time: 191 ms
+- Retrieval time: 148 ms
 
 ## Retrieved Headings
 

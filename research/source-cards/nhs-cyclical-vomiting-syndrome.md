@@ -22,7 +22,7 @@ Includes urgent red-flag vomiting symptoms that require emergency assessment. Us
 - H1: Cyclical vomiting syndrome
 - Meta description: Find out about cyclical vomiting syndrome including the symptoms, causes, how it&#x27;s diagnosed and the treatment and support available.
 - Size recorded: 40352 bytes
-- Retrieval time: 35 ms
+- Retrieval time: 32 ms
 
 ## Retrieved Headings
 

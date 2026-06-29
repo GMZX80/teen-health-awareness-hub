@@ -21,8 +21,8 @@ UK charity providing ADHD information, support resources, and advocacy.
 - Page title: ADHD UK - Homepage - ADHD UK
 - H1: DONATE, FUNDRAISE, GET INVOLVED
 - Meta description: We&#039;re here to help people with ADHD Thrive. Positively changing what it means to have ADHD in the UK if not the world.
-- Size recorded: 331023 bytes
-- Retrieval time: 138 ms
+- Size recorded: 331003 bytes
+- Retrieval time: 124 ms
 
 ## Retrieved Headings
 
