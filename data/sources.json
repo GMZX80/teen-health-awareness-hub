@@ -1,0 +1,69 @@
+[
+  {
+    "title": "NHS: Anxiety in children",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-in-children/",
+    "summary": "Parent-facing overview of anxiety in children, including signs, support ideas, and routes to more help.",
+    "tags": ["NHS", "anxiety", "parents"]
+  },
+  {
+    "title": "NHS: Anxiety disorders in children",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/",
+    "summary": "Explains when anxiety may be affecting day-to-day life enough to need professional help.",
+    "tags": ["NHS", "clinical", "anxiety"]
+  },
+  {
+    "title": "NICE CG159: Social anxiety disorder",
+    "url": "https://www.nice.org.uk/guidance/cg159",
+    "summary": "Clinical guideline covering recognition, assessment, and treatment of social anxiety disorder in children, young people, and adults. Last reviewed by NICE in May 2024.",
+    "tags": ["NICE", "guideline", "social anxiety"]
+  },
+  {
+    "title": "YoungMinds: School anxiety and refusal",
+    "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/school-anxiety-and-refusal/",
+    "summary": "Practical parent guide on school anxiety, emotionally based school avoidance language, home strategies, school changes, and return-to-school support.",
+    "tags": ["YoungMinds", "school avoidance", "parents"]
+  },
+  {
+    "title": "Anna Freud: School attendance and mental wellbeing",
+    "url": "https://www.annafreud.org/resources/schools-and-colleges/school-attendance-and-mental-wellbeing/",
+    "summary": "School-focused resource on the relationship between mental wellbeing and reduced or non-attendance.",
+    "tags": ["Anna Freud", "school", "wellbeing"]
+  },
+  {
+    "title": "Department for Education: Mental health resources",
+    "url": "https://educationhub.blog.gov.uk/2021/09/mental-health-resources-for-children-parents-carers-and-school-staff/",
+    "summary": "Government collection of mental health resources for children, young people, parents, carers, schools, and colleges. Updated March 2024.",
+    "tags": ["DfE", "resources", "school"]
+  },
+  {
+    "title": "NHS: Urgent help for mental health",
+    "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+    "summary": "How to get immediate expert advice and assessment for a mental health crisis or emergency.",
+    "tags": ["NHS", "crisis", "urgent"]
+  },
+  {
+    "title": "NHS: Where to get help for self-harm",
+    "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/",
+    "summary": "NHS advice on getting support for self-harm or thoughts of self-harm, including urgent help signposting.",
+    "tags": ["NHS", "self-harm", "safety"]
+  },
+  {
+    "title": "Mind: Mental health helplines",
+    "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/",
+    "summary": "Directory of UK mental health helplines, including suicide prevention and crisis text options.",
+    "tags": ["Mind", "helplines", "crisis"]
+  },
+  {
+    "title": "NHS: Cyclical vomiting syndrome",
+    "url": "https://www.nhs.uk/conditions/cyclical-vomiting-syndrome/",
+    "summary": "Includes urgent red-flag vomiting symptoms that require emergency assessment. Useful as a safety reference for nausea/vomiting tracking.",
+    "tags": ["NHS", "nausea", "red flags"]
+  },
+  {
+    "title": "IPSEA: School anxiety",
+    "url": "https://www.ipsea.org.uk/school-anxiety",
+    "summary": "Education rights charity page on school anxiety, SEN links, and the importance of seeking help early when anxiety worsens attendance.",
+    "tags": ["IPSEA", "SEND", "school anxiety"]
+  }
+]
+
