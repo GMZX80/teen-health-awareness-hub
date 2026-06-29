@@ -16,6 +16,7 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 - Source register in `data/sources.json`.
 - Practical templates for conversations, school meetings, symptom tracking, and source review.
 - Careful language around school avoidance, anxiety, nausea, self-harm risk, and when to seek help.
+- A Northumberland local-context page for Family Hubs, Togetherness, SEND Local Offer, ADHD/autism resources, and local strategy links.
 
 ## Working Principles
 
@@ -25,8 +26,8 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 - Separate physical symptoms that need medical review from anxiety-linked patterns.
 - Prefer reputable sources: NHS, NICE, YoungMinds, Anna Freud, government education resources, and established charities.
 - Keep private details out of commits, issues, and public pages.
+- Keep named worker contact details, referral correspondence, and family-specific notes outside the repo unless explicitly reviewed and anonymised.
 
 ## Publishing Note
 
 This repo is private by default. Do not enable public GitHub Pages until the owner explicitly approves public publication and reviews the content for privacy.
-
