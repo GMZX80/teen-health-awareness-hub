@@ -29,6 +29,10 @@ body {
   line-height: 1.55;
 }
 
+body.tool-page {
+  background: #eef4f3;
+}
+
 a {
   color: var(--accent-3);
   font-weight: 650;
@@ -247,6 +251,192 @@ footer {
   text-align: center;
 }
 
+.tool-hero {
+  min-height: 42vh;
+  display: grid;
+  align-content: end;
+  gap: 1rem;
+  padding: clamp(1.5rem, 5vw, 4rem);
+  background:
+    linear-gradient(110deg, rgba(18, 107, 99, 0.94), rgba(25, 33, 42, 0.82)),
+    url("https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1800&q=80");
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.tool-hero h1 {
+  max-width: 900px;
+  margin: 0;
+  font-size: clamp(2.4rem, 6vw, 5rem);
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.tool-shell {
+  width: min(1280px, calc(100% - 2rem));
+  margin: 0 auto;
+}
+
+.tool-card {
+  margin: clamp(1rem, 3vw, 2rem) 0;
+  padding: clamp(1rem, 3vw, 1.6rem);
+  background: var(--white);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+}
+
+.tool-heading-row {
+  display: flex;
+  gap: 1rem;
+  align-items: end;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.form-grid,
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.summary-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+label {
+  display: grid;
+  gap: 0.35rem;
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 800;
+}
+
+input,
+select,
+textarea {
+  width: 100%;
+  min-height: 42px;
+  border: 1px solid var(--line);
+  background: #fff;
+  color: var(--ink);
+  font: inherit;
+  padding: 0.6rem;
+}
+
+textarea {
+  resize: vertical;
+}
+
+.table-wrap {
+  overflow-x: auto;
+  border: 1px solid var(--line);
+}
+
+.log-table {
+  width: 100%;
+  min-width: 1180px;
+  border-collapse: collapse;
+  background: #fff;
+}
+
+.log-table th,
+.log-table td {
+  border-bottom: 1px solid var(--line);
+  border-right: 1px solid var(--line);
+  padding: 0.55rem;
+  vertical-align: top;
+}
+
+.log-table th {
+  background: var(--soft);
+  color: var(--accent);
+  font-size: 0.76rem;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+.log-table td:last-child,
+.log-table th:last-child {
+  border-right: 0;
+}
+
+.log-table input,
+.log-table textarea {
+  min-height: 36px;
+  border: 0;
+  padding: 0.35rem;
+  background: #f8fafb;
+}
+
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+}
+
+.primary-action,
+.secondary-action,
+.danger-action,
+.icon-action {
+  min-height: 44px;
+  border: 1px solid transparent;
+  padding: 0.65rem 0.95rem;
+  cursor: pointer;
+  font: inherit;
+  font-weight: 800;
+}
+
+.primary-action {
+  background: var(--accent);
+  color: #fff;
+}
+
+.secondary-action {
+  background: var(--soft);
+  color: var(--accent);
+  border-color: rgba(18, 107, 99, 0.24);
+}
+
+.danger-action {
+  background: #f8e6df;
+  color: var(--accent-2);
+  border-color: rgba(141, 63, 47, 0.28);
+}
+
+.icon-action {
+  min-width: 36px;
+  min-height: 36px;
+  padding: 0;
+  background: #f3e7e4;
+  color: var(--accent-2);
+}
+
+@media print {
+  .tool-hero,
+  .button-row,
+  .icon-action,
+  #addRow {
+    display: none !important;
+  }
+
+  body,
+  body.tool-page {
+    background: #fff;
+  }
+
+  .tool-shell {
+    width: 100%;
+  }
+
+  .tool-card,
+  .notice {
+    box-shadow: none;
+    break-inside: avoid;
+  }
+}
+
 @media (max-width: 860px) {
   .quick-grid,
   .principles,
@@ -254,11 +444,18 @@ footer {
   .issue-grid,
   .two-column,
   .timeline,
-  .resource-list {
+  .resource-list,
+  .form-grid,
+  .summary-grid {
     grid-template-columns: 1fr;
   }
 
   .topbar {
     min-height: 64vh;
+  }
+
+  .tool-heading-row {
+    align-items: stretch;
+    flex-direction: column;
   }
 }

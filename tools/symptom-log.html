@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Symptom and Trigger Log Tool</title>
+    <meta name="description" content="A private-in-browser symptom and trigger log for preparing GP, school, CAMHS or counselling conversations.">
+    <link rel="stylesheet" href="../assets/styles.css">
+  </head>
+  <body class="tool-page">
+    <header class="tool-hero">
+      <nav aria-label="Breadcrumb">
+        <a href="../index.html">Guide home</a>
+      </nav>
+      <p class="eyebrow">Interactive template</p>
+      <h1>Symptom and Trigger Log</h1>
+      <p class="lede">A calm, structured way to spot patterns before a GP, school, CAMHS, counsellor or support conversation.</p>
+    </header>
+
+    <main class="tool-shell">
+      <section class="notice">
+        <div>
+          <p class="eyebrow">Privacy and safety</p>
+          <h2>Local-only by design</h2>
+          <p>This tool runs in your browser. It does not submit or store information on a server. If you download a PDF, treat it like a private health document.</p>
+          <p>Avoid over-monitoring if it increases anxiety. The aim is pattern spotting, not surveillance. Seek urgent help for immediate safety concerns or serious physical symptoms.</p>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Set up</p>
+          <h2>Week and context</h2>
+        </div>
+        <div class="form-grid">
+          <label>
+            Week beginning
+            <input id="weekBeginning" type="date">
+          </label>
+          <label>
+            Young person reference
+            <input id="personRef" type="text" placeholder="Optional: initials or leave blank">
+          </label>
+          <label>
+            Main purpose
+            <select id="purpose">
+              <option>Preparing for GP appointment</option>
+              <option>Preparing for school meeting</option>
+              <option>Preparing for CAMHS or counselling</option>
+              <option>Understanding home patterns</option>
+              <option>Other</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="tool-heading-row">
+          <div>
+            <p class="eyebrow">Daily entries</p>
+            <h2>Pattern log</h2>
+          </div>
+          <button type="button" class="secondary-action" id="addRow">Add row</button>
+        </div>
+        <div class="table-wrap" aria-label="Symptom and trigger log table">
+          <table class="log-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Sleep</th>
+                <th>Food/hydration</th>
+                <th>School demand/event</th>
+                <th>Nausea 0-10</th>
+                <th>Anxiety 0-10</th>
+                <th>Other symptoms</th>
+                <th>What helped</th>
+                <th>Notes</th>
+                <th></th>
+              </tr>
+            </thead>
+            <tbody id="logRows"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Weekly pattern summary</p>
+          <h2>What stands out?</h2>
+        </div>
+        <div class="summary-grid">
+          <label>
+            Most difficult times
+            <textarea id="difficultTimes" rows="4"></textarea>
+          </label>
+          <label>
+            Repeated triggers
+            <textarea id="repeatedTriggers" rows="4"></textarea>
+          </label>
+          <label>
+            Physical red flags or changes
+            <textarea id="redFlags" rows="4"></textarea>
+          </label>
+          <label>
+            What helped
+            <textarea id="whatHelped" rows="4"></textarea>
+          </label>
+          <label>
+            What made things worse
+            <textarea id="madeWorse" rows="4"></textarea>
+          </label>
+          <label>
+            Questions for professional
+            <textarea id="questions" rows="4"></textarea>
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Export</p>
+          <h2>Download a clean PDF</h2>
+          <p>The PDF is generated on this device. Review it before sharing with school, GP, CAMHS or another professional.</p>
+        </div>
+        <div class="button-row">
+          <button type="button" class="primary-action" id="downloadPdf">Download PDF</button>
+          <button type="button" class="secondary-action" id="printPage">Print page</button>
+          <button type="button" class="danger-action" id="clearForm">Clear form</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+    <script src="../assets/symptom-log.js"></script>
+  </body>
+</html>
