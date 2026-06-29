@@ -17,6 +17,7 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 - Practical templates for conversations, school meetings, symptom tracking, and source review.
 - Careful language around school avoidance, anxiety, nausea, self-harm risk, and when to seek help.
 - A Northumberland local-context page for Family Hubs, Togetherness, SEND Local Offer, ADHD/autism resources, and local strategy links.
+- A retrieved source pack in `research/` with access-date metadata, redirects, page headings, and source cards generated from the public links.
 
 ## Working Principles
 
@@ -31,3 +32,13 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 ## Publishing Note
 
 This repo is private by default. Do not enable public GitHub Pages until the owner explicitly approves public publication and reviews the content for privacy.
+
+## Retrieval Pack
+
+Run this to refresh the source cards:
+
+```bash
+node tools/retrieve-sources.mjs
+```
+
+The script stores metadata and headings only. It does not copy full source pages into the repository.

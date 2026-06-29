@@ -1,0 +1,1656 @@
+{
+  "accessDate": "2026-06-29",
+  "results": [
+    {
+      "title": "NHS: Anxiety in children",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-in-children/",
+      "summary": "Parent-facing overview of anxiety in children, including signs, support ideas, and routes to more help.",
+      "tags": [
+        "NHS",
+        "anxiety",
+        "parents"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-in-children/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 39762,
+        "elapsedMs": 157,
+        "title": "Anxiety in children - NHS",
+        "h1": "Anxiety in children",
+        "description": "How to help your child deal with anxiety about things such as going to school or socialising with friends. Also, how to tell when it&#x27;s time to get medical help.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Anxiety in children"
+          },
+          {
+            "level": 2,
+            "text": "What makes children anxious?"
+          },
+          {
+            "level": 2,
+            "text": "When is anxiety a problem for children?"
+          },
+          {
+            "level": 2,
+            "text": "What are the signs of anxiety in children?"
+          },
+          {
+            "level": 2,
+            "text": "Why is my child anxious?"
+          },
+          {
+            "level": 2,
+            "text": "How to help an anxious child"
+          },
+          {
+            "level": 2,
+            "text": "Other ways to ease anxiety in children"
+          },
+          {
+            "level": 3,
+            "text": "Find out more"
+          },
+          {
+            "level": 2,
+            "text": "When should we get help?"
+          },
+          {
+            "level": 2,
+            "text": "More in Advice for parents"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-anxiety-in-children.md"
+    },
+    {
+      "title": "NHS: Anxiety disorders in children",
+      "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/",
+      "summary": "Explains when anxiety may be affecting day-to-day life enough to need professional help.",
+      "tags": [
+        "NHS",
+        "clinical",
+        "anxiety"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 35088,
+        "elapsedMs": 32,
+        "title": "Anxiety disorders in children - NHS",
+        "h1": "Anxiety disorders in children",
+        "description": "Read about anxiety disorders in children and teenagers, with links to other useful resources.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Anxiety disorders in children"
+          },
+          {
+            "level": 2,
+            "text": "Symptoms of anxiety in children and young people"
+          },
+          {
+            "level": 2,
+            "text": "How to help your anxious child"
+          },
+          {
+            "level": 2,
+            "text": "Where to get help for anxiety"
+          },
+          {
+            "level": 2,
+            "text": "Treatments for anxiety disorders in children and young people"
+          },
+          {
+            "level": 2,
+            "text": "What causes anxiety disorders in children and young people"
+          },
+          {
+            "level": 2,
+            "text": "More information and support"
+          },
+          {
+            "level": 3,
+            "text": "For you"
+          },
+          {
+            "level": 3,
+            "text": "For your child"
+          },
+          {
+            "level": 2,
+            "text": "More in Advice for parents"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-anxiety-disorders-in-children.md"
+    },
+    {
+      "title": "NICE CG159: Social anxiety disorder",
+      "url": "https://www.nice.org.uk/guidance/cg159",
+      "summary": "Clinical guideline covering recognition, assessment, and treatment of social anxiety disorder in children, young people, and adults. Last reviewed by NICE in May 2024.",
+      "tags": [
+        "NICE",
+        "guideline",
+        "social anxiety"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nice.org.uk/guidance/cg159",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 22829,
+        "elapsedMs": 167,
+        "title": "Overview | Social anxiety disorder: recognition, assessment and treatment | Guidance | NICE",
+        "h1": "Social anxiety disorder: recognition, assessment and treatment",
+        "description": "This guideline covers recognising, assessing and treating social anxiety disorder (also known as &#x2018;social phobia&#x2019;) in children and young people (from school age to 17 years) and adults (aged 18 years and older). It aims to improve symptoms, educational, occupational and social functioni",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Social anxiety disorder: recognition, assessment and treatment"
+          },
+          {
+            "level": 2,
+            "text": "Overview"
+          },
+          {
+            "level": 3,
+            "text": "Recommendations"
+          },
+          {
+            "level": 3,
+            "text": "Who is it for?"
+          },
+          {
+            "level": 3,
+            "text": "Guideline development process"
+          },
+          {
+            "level": 3,
+            "text": "Related quality standards"
+          }
+        ]
+      },
+      "card": "research/source-cards/nice-cg159-social-anxiety-disorder.md"
+    },
+    {
+      "title": "YoungMinds: School anxiety and refusal",
+      "url": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/school-anxiety-and-refusal/",
+      "summary": "Practical parent guide on school anxiety, emotionally based school avoidance language, home strategies, school changes, and return-to-school support.",
+      "tags": [
+        "YoungMinds",
+        "school avoidance",
+        "parents"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.youngminds.org.uk/parent/parents-a-z-mental-health-guide/school-anxiety-and-refusal/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 231063,
+        "elapsedMs": 300,
+        "title": "School Anxiety and Refusal | Parent Guide to Support | Young Minds",
+        "h1": "School anxiety and refusal",
+        "description": "If your child is anxious about school, or cannot go to school at all, read our tips and advice on how you can support their mental health.",
+        "headings": [
+          {
+            "level": 3,
+            "text": "Parents Helpline"
+          },
+          {
+            "level": 3,
+            "text": "Donate"
+          },
+          {
+            "level": 1,
+            "text": "School anxiety and refusal"
+          },
+          {
+            "level": 2,
+            "text": "Guide Menu for School anxiety and refusal"
+          },
+          {
+            "level": 3,
+            "text": "Guide contents (jump to section)"
+          },
+          {
+            "level": 2,
+            "text": "What makes young people feel anxious about school?"
+          },
+          {
+            "level": 2,
+            "text": "Finding out what&#x27;s going on for your child"
+          },
+          {
+            "level": 2,
+            "text": "Tips for making an anxiety iceberg"
+          },
+          {
+            "level": 2,
+            "text": "Making changes at school"
+          },
+          {
+            "level": 3,
+            "text": "Things you can ask the school for"
+          },
+          {
+            "level": 2,
+            "text": "Strategies you can try at home"
+          },
+          {
+            "level": 2,
+            "text": "If your child isn&#x2019;t able to go to school at the moment"
+          },
+          {
+            "level": 3,
+            "text": "Alongside requesting professional help, try to:"
+          },
+          {
+            "level": 2,
+            "text": "Helping your child return to school after an absence"
+          },
+          {
+            "level": 2,
+            "text": "Finding support"
+          },
+          {
+            "level": 3,
+            "text": "Finding SEND support"
+          },
+          {
+            "level": 2,
+            "text": "Real stories from parents and carers"
+          },
+          {
+            "level": 3,
+            "text": "How yoga helped my daughter to manage her anxiety while waiting for CAMHS"
+          },
+          {
+            "level": 3,
+            "text": "How I am helping my son tackle his anxiety"
+          },
+          {
+            "level": 3,
+            "text": "How yoga helped my daughter to manage her anxiety while waiting for CAMHS"
+          },
+          {
+            "level": 2,
+            "text": "Useful helplines and websites"
+          },
+          {
+            "level": 2,
+            "text": "YoungMinds Parents Helpline"
+          },
+          {
+            "level": 2,
+            "text": "Independent Provider of Special Education Advice (IPSEA)"
+          },
+          {
+            "level": 2,
+            "text": "SENDIAS"
+          },
+          {
+            "level": 2,
+            "text": "Enquire"
+          },
+          {
+            "level": 2,
+            "text": "Not Fine in School"
+          },
+          {
+            "level": 2,
+            "text": "National Autistic Society"
+          },
+          {
+            "level": 2,
+            "text": "Child Law Advice"
+          },
+          {
+            "level": 2,
+            "text": "Contact - For Parents"
+          },
+          {
+            "level": 2,
+            "text": "British Dyslexia Association"
+          }
+        ]
+      },
+      "card": "research/source-cards/youngminds-school-anxiety-and-refusal.md"
+    },
+    {
+      "title": "Anna Freud: School attendance and mental wellbeing",
+      "url": "https://www.annafreud.org/resources/schools-and-colleges/school-attendance-and-mental-wellbeing/",
+      "summary": "School-focused resource on the relationship between mental wellbeing and reduced or non-attendance.",
+      "tags": [
+        "Anna Freud",
+        "school",
+        "wellbeing"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.annafreud.org/resources/schools-and-colleges/school-attendance-and-mental-wellbeing/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 83924,
+        "elapsedMs": 191,
+        "title": "School Attendance and Mental Wellbeing | Anna Freud",
+        "h1": "School attendance and mental wellbeing",
+        "description": "Support school attendance with resources linking mental health to non-attendance. Includes guidance, strategies, and a case study for staff.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "School attendance and mental wellbeing"
+          },
+          {
+            "level": 3,
+            "text": "School attendance and mental wellbeing training"
+          },
+          {
+            "level": 2,
+            "text": "How to use this resource"
+          },
+          {
+            "level": 2,
+            "text": "School attendance and mental wellbeing: a guide for school staff"
+          },
+          {
+            "level": 3,
+            "text": "School attendance and mental wellbeing resource"
+          },
+          {
+            "level": 2,
+            "text": "Working in partnership with parents and carers"
+          },
+          {
+            "level": 2,
+            "text": "A parent's experience"
+          },
+          {
+            "level": 2,
+            "text": "Understanding mental health and attendance webinar"
+          },
+          {
+            "level": 2,
+            "text": "Related resources"
+          },
+          {
+            "level": 3,
+            "text": "Let's talk about anxiety: animation and teacher toolkit"
+          },
+          {
+            "level": 3,
+            "text": "Moving up! The transition to secondary school"
+          },
+          {
+            "level": 3,
+            "text": "Wellbeing measurement resources for students"
+          },
+          {
+            "level": 2,
+            "text": "Sign up to our Schools in Mind newsletter"
+          },
+          {
+            "level": 3,
+            "text": "Contact us"
+          },
+          {
+            "level": 3,
+            "text": "About Anna Freud"
+          },
+          {
+            "level": 3,
+            "text": "Useful links"
+          }
+        ]
+      },
+      "card": "research/source-cards/anna-freud-school-attendance-and-mental-wellbeing.md"
+    },
+    {
+      "title": "Department for Education: Mental health resources",
+      "url": "https://educationhub.blog.gov.uk/2021/09/mental-health-resources-for-children-parents-carers-and-school-staff/",
+      "summary": "Government collection of mental health resources for children, young people, parents, carers, schools, and colleges. Updated March 2024.",
+      "tags": [
+        "DfE",
+        "resources",
+        "school"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://educationhub.blog.gov.uk/2021/09/mental-health-resources-for-children-parents-carers-and-school-staff/",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 79647,
+        "elapsedMs": 470,
+        "title": "Mental health resources for children, students, parents, carers and school/college staff &#8211; The Education Hub",
+        "h1": "Mental health resources for children, students, parents, carers and school/college staff",
+        "description": "This article was updated on 19 March 2024 to reflect the latest information. We have put together some useful links and sources of mental health support so that children and young people, parents, carers, and school and college staff can get",
+        "headings": [
+          {
+            "level": 2,
+            "text": "This blog post was published under the 2015-2024 Conservative Administration"
+          },
+          {
+            "level": 1,
+            "text": "Mental health resources for children, students, parents, carers and school/college staff"
+          },
+          {
+            "level": 3,
+            "text": "Information relevant to mild anxiety in relation to school"
+          },
+          {
+            "level": 3,
+            "text": "General information relevant to children and young people’s wellbeing and mental health"
+          },
+          {
+            "level": 3,
+            "text": "Seeking specialist support for children and young people"
+          },
+          {
+            "level": 3,
+            "text": "Issue and group specific children and young people’s mental health and wellbeing support"
+          },
+          {
+            "level": 3,
+            "text": "Workplace / organisational approaches to mental health and wellbeing"
+          },
+          {
+            "level": 2,
+            "text": "Sharing and comments"
+          },
+          {
+            "level": 3,
+            "text": "Share this page"
+          },
+          {
+            "level": 2,
+            "text": "Related content and links"
+          },
+          {
+            "level": 3,
+            "text": "About the Education Hub"
+          },
+          {
+            "level": 3,
+            "text": "Read more"
+          },
+          {
+            "level": 3,
+            "text": "Sign up and manage updates"
+          },
+          {
+            "level": 3,
+            "text": "Follow us on social media"
+          },
+          {
+            "level": 3,
+            "text": "Search by date"
+          },
+          {
+            "level": 3,
+            "text": "Comments and moderation policy"
+          },
+          {
+            "level": 2,
+            "text": "Useful links"
+          }
+        ]
+      },
+      "card": "research/source-cards/department-for-education-mental-health-resources.md"
+    },
+    {
+      "title": "NHS: Urgent help for mental health",
+      "url": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+      "summary": "How to get immediate expert advice and assessment for a mental health crisis or emergency.",
+      "tags": [
+        "NHS",
+        "crisis",
+        "urgent"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/nhs-services/mental-health-services/where-to-get-urgent-help-for-mental-health/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 27515,
+        "elapsedMs": 31,
+        "title": "Where to get urgent help for mental health - NHS",
+        "h1": "Where to get urgent help for mental health",
+        "description": "You may need urgent help for mental health for many different reasons. Some people call it a crisis, an emergency or a breakdown. It&#x27;s important to know that support is available, whatever you&#x27;re going through.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Where to get urgent help for mental health"
+          },
+          {
+            "level": 2,
+            "text": "Urgent advice: Get advice from 111 or ask for an urgent GP appointment if:"
+          },
+          {
+            "level": 2,
+            "text": "Other ways to get help with your mental health"
+          },
+          {
+            "level": 3,
+            "text": "Free listening services"
+          },
+          {
+            "level": 3,
+            "text": "Coping during a crisis"
+          },
+          {
+            "level": 3,
+            "text": "Immediate action required: Call 999 or go to A&E now if:"
+          },
+          {
+            "level": 2,
+            "text": "How a mental health emergency is treated in A&E"
+          },
+          {
+            "level": 3,
+            "text": "Making a safety plan"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-urgent-help-for-mental-health.md"
+    },
+    {
+      "title": "NHS: Where to get help for self-harm",
+      "url": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/",
+      "summary": "NHS advice on getting support for self-harm or thoughts of self-harm, including urgent help signposting.",
+      "tags": [
+        "NHS",
+        "self-harm",
+        "safety"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/mental-health/feelings-symptoms-behaviours/behaviours/self-harm/getting-help/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 31850,
+        "elapsedMs": 34,
+        "title": "Where to get help for self-harm - NHS",
+        "h1": "Where to get help for self-harm",
+        "description": "Self-harm is when somebody intentionally damages or injures their body and is a sign of emotional distress. Support is available for anyone who self-harms or thinks about self-harm, as well as their friends and family.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Where to get help for self-harm"
+          },
+          {
+            "level": 2,
+            "text": "Important: Urgent help"
+          },
+          {
+            "level": 2,
+            "text": "If you just need to talk, any time of day or night"
+          },
+          {
+            "level": 3,
+            "text": "Free listening services"
+          },
+          {
+            "level": 3,
+            "text": "Non-urgent advice: Speak to a GP if:"
+          },
+          {
+            "level": 2,
+            "text": "How a GP can help with self-harm"
+          },
+          {
+            "level": 2,
+            "text": "Further information and support"
+          },
+          {
+            "level": 2,
+            "text": "More in Self-harm"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-where-to-get-help-for-self-harm.md"
+    },
+    {
+      "title": "Mind: Mental health helplines",
+      "url": "https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/",
+      "summary": "Directory of UK mental health helplines, including suicide prevention and crisis text options.",
+      "tags": [
+        "Mind",
+        "helplines",
+        "crisis"
+      ],
+      "retrieval": {
+        "ok": false,
+        "status": 403,
+        "statusText": "Forbidden",
+        "finalUrl": "https://www.mind.org.uk/information-support/guides-to-support-and-services/seeking-help-for-a-mental-health-problem/mental-health-helplines/",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 0,
+        "elapsedMs": 89,
+        "error": "HTTP 403 Forbidden"
+      },
+      "card": "research/source-cards/mind-mental-health-helplines.md"
+    },
+    {
+      "title": "NHS: Cyclical vomiting syndrome",
+      "url": "https://www.nhs.uk/conditions/cyclical-vomiting-syndrome/",
+      "summary": "Includes urgent red-flag vomiting symptoms that require emergency assessment. Useful as a safety reference for nausea/vomiting tracking.",
+      "tags": [
+        "NHS",
+        "nausea",
+        "red flags"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/conditions/cyclical-vomiting-syndrome/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 40352,
+        "elapsedMs": 35,
+        "title": "Cyclical vomiting syndrome - NHS",
+        "h1": "Cyclical vomiting syndrome",
+        "description": "Find out about cyclical vomiting syndrome including the symptoms, causes, how it&#x27;s diagnosed and the treatment and support available.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Cyclical vomiting syndrome"
+          },
+          {
+            "level": 2,
+            "text": "Symptoms of cyclical vomiting syndrome"
+          },
+          {
+            "level": 2,
+            "text": "Urgent advice: Get help from NHS 111 now if:"
+          },
+          {
+            "level": 2,
+            "text": "Immediate action required: Call 999 or go to A&E if you or your child:"
+          },
+          {
+            "level": 2,
+            "text": "How cyclical vomiting syndrome is diagnosed"
+          },
+          {
+            "level": 2,
+            "text": "Treatment for cyclical vomiting syndrome"
+          },
+          {
+            "level": 2,
+            "text": "How to manage the symptoms of cyclical vomiting syndrome"
+          },
+          {
+            "level": 2,
+            "text": "Causes of cyclical vomiting syndrome"
+          },
+          {
+            "level": 2,
+            "text": "Find out more"
+          },
+          {
+            "level": 2,
+            "text": "Help us improve our website"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-cyclical-vomiting-syndrome.md"
+    },
+    {
+      "title": "IPSEA: School anxiety",
+      "url": "https://www.ipsea.org.uk/school-anxiety",
+      "summary": "Education rights charity page on school anxiety, SEN links, and the importance of seeking help early when anxiety worsens attendance.",
+      "tags": [
+        "IPSEA",
+        "SEND",
+        "school anxiety"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.ipsea.org.uk/school-anxiety",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 74611,
+        "elapsedMs": 138,
+        "title": "School anxiety | (IPSEA) Independent Provider of Special Education Advice",
+        "h1": "School anxiety",
+        "description": "We regularly advise and support families whose school-aged children are unable to access education because of anxiety or similar difficulties – very often associated with the child’s SEN. This was previously called ‘school refusal’ but is also more accurately called emotionally-based school avoidanc",
+        "headings": [
+          {
+            "level": 1,
+            "text": "School anxiety"
+          },
+          {
+            "level": 3,
+            "text": "Speak to your GP or other medical/mental health professional"
+          },
+          {
+            "level": 3,
+            "text": "Speak to the school"
+          },
+          {
+            "level": 3,
+            "text": "What if my child already has an EHC plan?"
+          },
+          {
+            "level": 3,
+            "text": "Getting temporary education put in place"
+          },
+          {
+            "level": 3,
+            "text": "What if I am being threatened with an Attendance Order?"
+          },
+          {
+            "level": 3,
+            "text": "Should I consider home education?"
+          },
+          {
+            "level": 3,
+            "text": "Further information"
+          },
+          {
+            "level": 2,
+            "text": "Latest"
+          },
+          {
+            "level": 3,
+            "text": "Subsidised Training - Introduction to SEND Law: 25 August"
+          },
+          {
+            "level": 3,
+            "text": "SEND and the Equality Act: behaviour, exclusions and disability discrimination: 4 August"
+          },
+          {
+            "level": 3,
+            "text": "London Landmarks Half Marathon 2027"
+          },
+          {
+            "level": 3,
+            "text": "Bath Half Marathon 2027"
+          },
+          {
+            "level": 2,
+            "text": "Related"
+          },
+          {
+            "level": 3,
+            "text": "Children who do not have a school place"
+          },
+          {
+            "level": 3,
+            "text": "Illness"
+          },
+          {
+            "level": 3,
+            "text": "Alternative education for children who cannot attend school"
+          },
+          {
+            "level": 3,
+            "text": "Children out of school FAQs"
+          },
+          {
+            "level": 2,
+            "text": "Most read"
+          },
+          {
+            "level": 3,
+            "text": "Asking for an EHC needs assessment"
+          },
+          {
+            "level": 3,
+            "text": "Template letters"
+          },
+          {
+            "level": 3,
+            "text": "Template letter 1: making a request for an EHC needs assessment"
+          },
+          {
+            "level": 3,
+            "text": "EHC needs assessments"
+          },
+          {
+            "level": 3,
+            "text": "Advice Line"
+          },
+          {
+            "level": 3,
+            "text": "What happens in an EHC needs assessment"
+          },
+          {
+            "level": 3,
+            "text": "Choosing a school/college with an EHC plan"
+          },
+          {
+            "level": 3,
+            "text": "The annual review process"
+          },
+          {
+            "level": 3,
+            "text": "Contact us"
+          },
+          {
+            "level": 3,
+            "text": "Appealing to the SEND Tribunal"
+          },
+          {
+            "level": 2,
+            "text": "How you can help IPSEA"
+          }
+        ]
+      },
+      "card": "research/source-cards/ipsea-school-anxiety.md"
+    },
+    {
+      "title": "Northumberland Family Hub guide to services",
+      "url": "https://padlet.com/Northumberland/family-hub-guide-to-services-o3r8ph83nr9u7zol",
+      "summary": "Local Padlet explaining free services and parenting support available through Northumberland Family Hubs.",
+      "tags": [
+        "Northumberland",
+        "Family Hubs",
+        "local support"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://padlet.com/Northumberland/family-hub-guide-to-services-o3r8ph83nr9u7zol",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 42483,
+        "elapsedMs": 399,
+        "title": "Family Hub - guide to services",
+        "h1": "",
+        "description": "This Padlet explains the range of free services available for parenting support in Northumberland.",
+        "headings": []
+      },
+      "card": "research/source-cards/northumberland-family-hub-guide-to-services.md"
+    },
+    {
+      "title": "Northumberland Family Hubs: Free online courses",
+      "url": "https://www.familyhubsnorthumberland.co.uk/free-online-courses",
+      "summary": "Northumberland Family Hubs page for free online courses for parents, carers, grandparents, and teens, including Solihull Approach resources.",
+      "tags": [
+        "Northumberland",
+        "online learning",
+        "parents"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.familyhubsnorthumberland.co.uk/free-online-courses",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 802557,
+        "elapsedMs": 274,
+        "title": "Free Online Courses | Family Hubs",
+        "h1": "FREE ONLINE COURSES",
+        "description": "For all parents, carers, grandparents and teens in Northumberland. Find out more about these free online guides. Learn from home.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "FREE ONLINE COURSES"
+          },
+          {
+            "level": 2,
+            "text": "Solihull Approach e-courses"
+          },
+          {
+            "level": 3,
+            "text": "How to access free e-courses:"
+          },
+          {
+            "level": 3,
+            "text": "Courses available:"
+          },
+          {
+            "level": 3,
+            "text": "Other free activities for pregnancy to 19 years"
+          },
+          {
+            "level": 3,
+            "text": "Free activities for pregnancy to 5 years"
+          },
+          {
+            "level": 3,
+            "text": "WHAT ARE FAMILY HUBS?"
+          },
+          {
+            "level": 3,
+            "text": "FIND A FAMILY HUB NEAR YOU"
+          },
+          {
+            "level": 3,
+            "text": "FREE ACTIVITIES FOR ALL AGES"
+          },
+          {
+            "level": 3,
+            "text": "WHAT DO FAMILY HUBS DO?"
+          },
+          {
+            "level": 3,
+            "text": "FREE MEMBERSHIP"
+          },
+          {
+            "level": 3,
+            "text": "INFORMATION, ADVICE & GUIDANCE"
+          }
+        ]
+      },
+      "card": "research/source-cards/northumberland-family-hubs-free-online-courses.md"
+    },
+    {
+      "title": "Togetherness Northumberland",
+      "url": "https://togetherness.co.uk/mul/northumberland/",
+      "summary": "Northumberland access to Togetherness learning for emotional resilience, adolescent development, relationships, and everyday family wellbeing.",
+      "tags": [
+        "Northumberland",
+        "Togetherness",
+        "emotional wellbeing"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://togetherness.co.uk/mul/northumberland/",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 176378,
+        "elapsedMs": 1295,
+        "title": "Northumberland | Togetherness - Togetherness",
+        "h1": "",
+        "description": "",
+        "headings": [
+          {
+            "level": 2,
+            "text": "About us"
+          },
+          {
+            "level": 2,
+            "text": "International centres"
+          },
+          {
+            "level": 2,
+            "text": "Learn"
+          },
+          {
+            "level": 2,
+            "text": "Parenting topics"
+          },
+          {
+            "level": 2,
+            "text": "Activate"
+          },
+          {
+            "level": 2,
+            "text": "Schools"
+          },
+          {
+            "level": 2,
+            "text": "Family support"
+          },
+          {
+            "level": 2,
+            "text": "Resources"
+          },
+          {
+            "level": 2,
+            "text": "Northumberland families: Build everyday emotional resilience!"
+          },
+          {
+            "level": 2,
+            "text": "Working with Togetherness"
+          },
+          {
+            "level": 2,
+            "text": "Togetherness pathways"
+          },
+          {
+            "level": 3,
+            "text": "For parents and carers"
+          },
+          {
+            "level": 3,
+            "text": "For grandparents"
+          },
+          {
+            "level": 3,
+            "text": "For teenagers"
+          },
+          {
+            "level": 2,
+            "text": "Featured resources"
+          },
+          {
+            "level": 3,
+            "text": "Sleepfullness"
+          },
+          {
+            "level": 3,
+            "text": "Moving up in school"
+          },
+          {
+            "level": 2,
+            "text": "Created by Togetherness"
+          },
+          {
+            "level": 2,
+            "text": "Testimonials"
+          },
+          {
+            "level": 3,
+            "text": "Learner"
+          },
+          {
+            "level": 3,
+            "text": "Do you work with children?"
+          },
+          {
+            "level": 3,
+            "text": "Find out more about Togetherness for professionals"
+          },
+          {
+            "level": 3,
+            "text": "Promote these pathways"
+          },
+          {
+            "level": 3,
+            "text": "Technical Support"
+          }
+        ]
+      },
+      "card": "research/source-cards/togetherness-northumberland.md"
+    },
+    {
+      "title": "Northumberland SEND Local Offer",
+      "url": "https://www.northumberlandsend.co.uk/",
+      "summary": "Local Offer information and signposting for children and young people aged 0-25 with SEND and their families in Northumberland.",
+      "tags": [
+        "Northumberland",
+        "SEND",
+        "local offer"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.northumberlandsend.co.uk/",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 1086837,
+        "elapsedMs": 239,
+        "title": "Home | Northumberland SEND local offer",
+        "h1": "Welcome to your SEND Local Offer for Northumberland",
+        "description": "Northumberland",
+        "headings": [
+          {
+            "level": 1,
+            "text": "Welcome to your SEND Local Offer for Northumberland"
+          },
+          {
+            "level": 2,
+            "text": "Northumberland's SEND local offer is here to help you to find the right support for children, young people and adults aged 0-25 years"
+          },
+          {
+            "level": 2,
+            "text": "Explore the full range of support available through your Northumberland SEND local offer"
+          },
+          {
+            "level": 2,
+            "text": "SUBSCRIBE TO OUR FREE SEND NEWSLETTER"
+          },
+          {
+            "level": 2,
+            "text": "Latest news"
+          },
+          {
+            "level": 2,
+            "text": "Ofsted survey - SEND consultation"
+          },
+          {
+            "level": 2,
+            "text": "SEND Open Events for 16-24 year olds from Northumberland Skills"
+          },
+          {
+            "level": 2,
+            "text": "Headlines from the Special Educational Needs & Disabilities (SEND) Infographic: August 2025"
+          }
+        ]
+      },
+      "card": "research/source-cards/northumberland-send-local-offer.md"
+    },
+    {
+      "title": "Northumberland Family Hubs: Supporting young people",
+      "url": "https://www.familyhubsnorthumberland.co.uk/supporting-young-people",
+      "summary": "Family Hubs page describing local support services for children, young people, and families, including wellbeing, education, and safety resources.",
+      "tags": [
+        "Northumberland",
+        "young people",
+        "wellbeing"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.familyhubsnorthumberland.co.uk/supporting-young-people",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 843179,
+        "elapsedMs": 77,
+        "title": "Supporting young people | Family Hubs",
+        "h1": "SUPPORTING YOUNG PEOPLE",
+        "description": "Find out more about how Family Hubs Northumberland supports children and young people.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "SUPPORTING YOUNG PEOPLE"
+          },
+          {
+            "level": 2,
+            "text": "How we support children and young people"
+          },
+          {
+            "level": 2,
+            "text": "Explore the range of support services for young people"
+          },
+          {
+            "level": 3,
+            "text": "EDUCATION"
+          },
+          {
+            "level": 3,
+            "text": "NORTHUMBERLAND SEND LOCAL OFFER"
+          },
+          {
+            "level": 3,
+            "text": "HEALTH SERVICE (0-19 YEARS)"
+          },
+          {
+            "level": 3,
+            "text": "CHILDREN & YOUNG PEOPLE'S SERVICE"
+          },
+          {
+            "level": 3,
+            "text": "CHILDREN & YOUNG PEOPLE'S PLAN"
+          },
+          {
+            "level": 3,
+            "text": "CHILDREN'S ADDITIONAL NEEDS"
+          },
+          {
+            "level": 3,
+            "text": "PRIMARY MENTAL HEALTH"
+          },
+          {
+            "level": 3,
+            "text": "CHILDREN & YOUNG PEOPLES' PROVISION"
+          }
+        ]
+      },
+      "card": "research/source-cards/northumberland-family-hubs-supporting-young-people.md"
+    },
+    {
+      "title": "Northumberland emotional wellbeing and mental health strategy",
+      "url": "https://northeastnorthcumbria.nhs.uk/media/utgbiyx2/northumberlands-emotional-wellbeing-and-mental-health-stategy.pdf",
+      "summary": "Local partnership strategy for improving emotional wellbeing and mental health support for children and young people in Northumberland.",
+      "tags": [
+        "Northumberland",
+        "strategy",
+        "mental health"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://northeastnorthcumbria.nhs.uk/media/utgbiyx2/northumberlands-emotional-wellbeing-and-mental-health-stategy.pdf",
+        "contentType": "application/pdf",
+        "bytes": 893290,
+        "elapsedMs": 1604,
+        "note": "Non-HTML resource; metadata recorded without copying content."
+      },
+      "card": "research/source-cards/northumberland-emotional-wellbeing-and-mental-health-strategy.md"
+    },
+    {
+      "title": "NHS: Attention deficit hyperactivity disorder",
+      "url": "https://www.nhs.uk/conditions/attention-deficit-hyperactivity-disorder-adhd/",
+      "summary": "NHS overview of ADHD symptoms, diagnosis, support, and treatment.",
+      "tags": [
+        "NHS",
+        "ADHD",
+        "neurodevelopmental"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.nhs.uk/conditions/adhd-children-teenagers/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 48808,
+        "elapsedMs": 267,
+        "title": "ADHD in children and young people - NHS",
+        "h1": "ADHD in children and young people",
+        "description": "Find out about ADHD (attention deficit hyperactivity disorder) in children and teenagers, the symptoms of ADHD, how to get a diagnosis and how to manage it.",
+        "headings": [
+          {
+            "level": 3,
+            "text": "Asking for an ADHD assessment"
+          },
+          {
+            "level": 3,
+            "text": "What happens at an ADHD assessment"
+          },
+          {
+            "level": 3,
+            "text": "Lifestyle"
+          },
+          {
+            "level": 3,
+            "text": "Medicine"
+          },
+          {
+            "level": 3,
+            "text": "Talking therapies"
+          },
+          {
+            "level": 3,
+            "text": "ADHD UK"
+          },
+          {
+            "level": 3,
+            "text": "ADHD Adult UK"
+          },
+          {
+            "level": 3,
+            "text": "Young Minds"
+          },
+          {
+            "level": 3,
+            "text": "AADD-UK"
+          },
+          {
+            "level": 1,
+            "text": "ADHD in children and young people"
+          },
+          {
+            "level": 2,
+            "text": "ADHD in adults"
+          },
+          {
+            "level": 2,
+            "text": "Symptoms of ADHD (attention deficit hyperactivity disorder)"
+          },
+          {
+            "level": 2,
+            "text": "Getting help for ADHD (attention deficit hyperactivity disorder)"
+          },
+          {
+            "level": 3,
+            "text": "Asking for an ADHD assessment"
+          },
+          {
+            "level": 3,
+            "text": "What happens at an ADHD assessment"
+          },
+          {
+            "level": 3,
+            "text": "Waiting times for ADHD assessments"
+          },
+          {
+            "level": 2,
+            "text": "How to manage ADHD (attention deficit hyperactivity disorder)"
+          },
+          {
+            "level": 3,
+            "text": "Lifestyle"
+          },
+          {
+            "level": 3,
+            "text": "Support at school and at home"
+          },
+          {
+            "level": 3,
+            "text": "Medicine"
+          },
+          {
+            "level": 3,
+            "text": "Talking therapies"
+          },
+          {
+            "level": 2,
+            "text": "ADHD and mental health"
+          },
+          {
+            "level": 2,
+            "text": "What causes attention deficit hyperactivity disorder (ADHD)"
+          },
+          {
+            "level": 2,
+            "text": "Help and support for ADHD (attention deficit hyperactivity disorder)"
+          },
+          {
+            "level": 3,
+            "text": "ADHD UK"
+          },
+          {
+            "level": 3,
+            "text": "ADHD Adult UK"
+          },
+          {
+            "level": 3,
+            "text": "Young Minds"
+          },
+          {
+            "level": 3,
+            "text": "AADD-UK"
+          },
+          {
+            "level": 2,
+            "text": "Help us improve our website"
+          },
+          {
+            "level": 2,
+            "text": "Support links"
+          }
+        ]
+      },
+      "card": "research/source-cards/nhs-attention-deficit-hyperactivity-disorder.md"
+    },
+    {
+      "title": "ADHD Foundation",
+      "url": "https://www.adhdfoundation.org.uk/",
+      "summary": "UK neurodiversity charity with resources and training around ADHD and related neurodevelopmental needs.",
+      "tags": [
+        "ADHD",
+        "charity",
+        "neurodiversity"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.adhdfoundation.org.uk/",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 52632,
+        "elapsedMs": 295,
+        "title": "Home - ADHD Foundation : ADHD Foundation",
+        "h1": "The ADHD Foundation Neurodiversity Charity - an integrated health and education service",
+        "description": "The ADHD Foundation Neurodiversity Charity - an integrated health and education service.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "The ADHD Foundation Neurodiversity Charity - an integrated health and education service"
+          },
+          {
+            "level": 2,
+            "text": "Neurodiversity Umbrella Project"
+          },
+          {
+            "level": 2,
+            "text": "The ADHD Foundation Garden at RHS Chelsea Flower Show"
+          },
+          {
+            "level": 2,
+            "text": "Online Training Courses"
+          },
+          {
+            "level": 2,
+            "text": "Latest News"
+          },
+          {
+            "level": 3,
+            "text": "Lilly Pinchin joins The ADHD Foundation as Patron"
+          },
+          {
+            "level": 3,
+            "text": "Milton Keynes welcomes the largest Neurodiversity Umbrella Project to date!"
+          },
+          {
+            "level": 3,
+            "text": "Latest Government news on Support for neurodivergent children and young people"
+          }
+        ]
+      },
+      "card": "research/source-cards/adhd-foundation.md"
+    },
+    {
+      "title": "ADHD Partnership",
+      "url": "https://www.ukadhd.com/",
+      "summary": "ADHD information and resources signposted by local support. Review alongside NHS and charity sources before acting on advice.",
+      "tags": [
+        "ADHD",
+        "information",
+        "neurodevelopmental"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://www.ukadhd.com/",
+        "contentType": "text/html",
+        "bytes": 14320,
+        "elapsedMs": 282,
+        "title": "Home | The UK ADHD Partnership",
+        "h1": "",
+        "description": "The UK ADHD Partnership supports clinicians and allied professionals to identify and meet the needs of children and young people affected by this disorder. ADHD is now recognised as a condition that may cross the lifespan and there are multi-modal interventions for ADHD that can be delivered at ever",
+        "headings": [
+          {
+            "level": 2,
+            "text": "Building better futures for children with ADHD"
+          },
+          {
+            "level": 2,
+            "text": "Building better futures for children with ADHD"
+          },
+          {
+            "level": 2,
+            "text": "UKAP recognises ADHD as a complex but treatable condition, which can have a profound impact on individuals, families and society."
+          },
+          {
+            "level": 2,
+            "text": "UKAP Patrons"
+          },
+          {
+            "level": 2,
+            "text": "Widgets"
+          },
+          {
+            "level": 3,
+            "text": "About Us"
+          },
+          {
+            "level": 3,
+            "text": "ADHD - What is it?"
+          },
+          {
+            "level": 3,
+            "text": "Top Tips for Parents!"
+          },
+          {
+            "level": 3,
+            "text": "News Updates"
+          },
+          {
+            "level": 2,
+            "text": "Additional Information"
+          }
+        ]
+      },
+      "card": "research/source-cards/adhd-partnership.md"
+    },
+    {
+      "title": "ADHD UK",
+      "url": "https://adhduk.co.uk/",
+      "summary": "UK charity providing ADHD information, support resources, and advocacy.",
+      "tags": [
+        "ADHD",
+        "charity",
+        "support"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://adhduk.co.uk/",
+        "contentType": "text/html; charset=UTF-8",
+        "bytes": 331023,
+        "elapsedMs": 138,
+        "title": "ADHD UK - Homepage - ADHD UK",
+        "h1": "DONATE, FUNDRAISE, GET INVOLVED",
+        "description": "We&#039;re here to help people with ADHD Thrive. Positively changing what it means to have ADHD in the UK if not the world.",
+        "headings": [
+          {
+            "level": 1,
+            "text": "DONATE, FUNDRAISE, GET INVOLVED"
+          },
+          {
+            "level": 3,
+            "text": "Donate"
+          },
+          {
+            "level": 3,
+            "text": "Fundraise"
+          },
+          {
+            "level": 3,
+            "text": "Get Involved"
+          },
+          {
+            "level": 3,
+            "text": "Political & Change Goals"
+          },
+          {
+            "level": 1,
+            "text": "ABOUT US"
+          },
+          {
+            "level": 3,
+            "text": "About Us"
+          },
+          {
+            "level": 3,
+            "text": "Contact Us"
+          },
+          {
+            "level": 3,
+            "text": "Press"
+          },
+          {
+            "level": 3,
+            "text": "Legal and Rules"
+          },
+          {
+            "level": 1,
+            "text": "SERVICES"
+          },
+          {
+            "level": 3,
+            "text": "Services"
+          },
+          {
+            "level": 3,
+            "text": "Support Group Tickets"
+          },
+          {
+            "level": 3,
+            "text": "ADHD UK Branded Products"
+          },
+          {
+            "level": 3,
+            "text": "ADHD UK Corporate Services"
+          },
+          {
+            "level": 1,
+            "text": "SUPPORT"
+          },
+          {
+            "level": 3,
+            "text": "General Support"
+          },
+          {
+            "level": 3,
+            "text": "Research Support"
+          },
+          {
+            "level": 3,
+            "text": "ADHD and Debt"
+          },
+          {
+            "level": 3,
+            "text": "ADHD Strategy Discovery Platform"
+          },
+          {
+            "level": 3,
+            "text": "Other Support"
+          },
+          {
+            "level": 1,
+            "text": "ADHD & EDUCATION"
+          },
+          {
+            "level": 3,
+            "text": "Education"
+          },
+          {
+            "level": 3,
+            "text": "Community"
+          },
+          {
+            "level": 3,
+            "text": "Support"
+          },
+          {
+            "level": 1,
+            "text": "ADHD & WORK"
+          },
+          {
+            "level": 3,
+            "text": "ADHD and Work"
+          },
+          {
+            "level": 3,
+            "text": "Support"
+          },
+          {
+            "level": 3,
+            "text": "Law"
+          },
+          {
+            "level": 3,
+            "text": "ADHD UK Employer & Coaching Services"
+          }
+        ]
+      },
+      "card": "research/source-cards/adhd-uk.md"
+    },
+    {
+      "title": "Autism family drop-ins Padlet",
+      "url": "https://padlet.com/nies1/autism-family-drop-ins-dvzo6qc3uofhtnws",
+      "summary": "Northumberland autism family drop-in information signposted by local support.",
+      "tags": [
+        "Northumberland",
+        "autism",
+        "drop-in"
+      ],
+      "retrieval": {
+        "ok": true,
+        "status": 200,
+        "finalUrl": "https://padlet.com/nies1/autism-family-drop-ins-dvzo6qc3uofhtnws",
+        "contentType": "text/html; charset=utf-8",
+        "bytes": 41879,
+        "elapsedMs": 332,
+        "title": "Autism Family Drop Ins",
+        "h1": "",
+        "description": "Made with Padlet",
+        "headings": []
+      },
+      "card": "research/source-cards/autism-family-drop-ins-padlet.md"
+    }
+  ]
+}
