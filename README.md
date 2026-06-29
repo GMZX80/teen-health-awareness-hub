@@ -1,8 +1,8 @@
 # Teen Health Awareness Hub
 
-Private, source-backed curation site for mental health awareness, school anxiety, emotionally based school avoidance, and related physical symptoms in young people.
+Public, source-backed guide for mental health awareness, school anxiety, emotionally based school avoidance, and related physical symptoms in young people.
 
-This repository is designed to help a parent or carer collect reliable guidance, compare advice, prepare for conversations with school/GP/CAMHS, and keep notes without pretending to replace clinical care.
+This repository is designed to help a parent or carer find reliable guidance, compare advice, prepare for conversations with school/GP/CAMHS, and use practical templates without pretending to replace clinical care.
 
 ## Safety Boundary
 
@@ -12,7 +12,7 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 
 ## What Is Included
 
-- A static website in `index.html`, ready for GitHub Pages if explicitly published later.
+- A static website in `index.html`, published with GitHub Pages.
 - Source register in `data/sources.json`.
 - Practical templates for conversations, school meetings, symptom tracking, and source review.
 - Careful language around school avoidance, anxiety, nausea, self-harm risk, and when to seek help.
@@ -27,11 +27,15 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 - Separate physical symptoms that need medical review from anxiety-linked patterns.
 - Prefer reputable sources: NHS, NICE, YoungMinds, Anna Freud, government education resources, and established charities.
 - Keep private details out of commits, issues, and public pages.
-- Keep named worker contact details, referral correspondence, and family-specific notes outside the repo unless explicitly reviewed and anonymised.
+- Keep named worker contact details, referral correspondence, and family-specific notes outside the repo.
 
-## Publishing Note
+## Publishing
 
-This repo is private by default. Do not enable public GitHub Pages until the owner explicitly approves public publication and reviews the content for privacy.
+This repo is public and intended to be published through GitHub Pages. Do not add personal case details, private correspondence, named contacts, appointment information, or confidential records.
+
+Published site:
+
+https://gmzx80.github.io/teen-health-awareness-hub/
 
 ## Retrieval Pack
 

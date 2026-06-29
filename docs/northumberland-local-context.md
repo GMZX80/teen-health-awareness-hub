@@ -1,19 +1,19 @@
 # Northumberland Local Context
 
-This page records useful local context without storing named worker contact details, direct phone numbers, private emails, referral forms, or family-specific notes.
+This page records useful local context without storing named worker contact details, direct phone numbers, private messages, referral forms, or family-specific notes.
 
-## Why The Email Is Useful
+## Why Local Context Is Useful
 
-The local Early Help message is useful because it points to current Northumberland routes that sit between general advice and formal clinical care:
+Local Early Help, Family Hub and SEND signposting is useful because it points to Northumberland routes that sit between general advice and formal clinical care:
 
 - Family Hub information and guides to local services.
 - Togetherness / Solihull Approach online learning for emotional wellbeing, adolescent development, parenting, and family relationships.
 - Local ADHD, autism, and SEND signposting.
 - Parenting teens and preteens resources.
-- A parenting older children group referral route.
-- A short offer of telephone support and advice.
+- Parenting older children support routes where available.
+- Telephone or in-person support routes where available.
 
-Keep the original email in private email storage, not in this repo. Use this page only for curated links and action prompts.
+Keep original correspondence in private storage, not in this repo. Use this page only for curated links and action prompts.
 
 ## Local Links To Review
 
@@ -47,7 +47,6 @@ Keep the original email in private email storage, not in this repo. Use this pag
 
 ## Curation Notes
 
-- Do not add direct worker names, mobile numbers, Teams details, or email disclaimers to the public-facing site.
+- Do not add direct worker names, mobile numbers, Teams details, private messages, or email disclaimers to the public-facing site.
 - Padlet pages can change often. Check dates before relying on a session or group.
 - Keep a separate private note of any actual appointments, referral dates, and worker contact details.
-

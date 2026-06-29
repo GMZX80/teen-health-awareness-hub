@@ -53,7 +53,7 @@ const safeFetch = async (source) => {
     const response = await fetch(source.url, {
       redirect: "follow",
       headers: {
-        "user-agent": "TeenHealthAwarenessHub/1.0 (+private curation; contact repo owner)"
+        "user-agent": "TeenHealthAwarenessHub/1.0 (+source metadata curation; contact repo owner)"
       }
     });
     const contentType = response.headers.get("content-type") || "";

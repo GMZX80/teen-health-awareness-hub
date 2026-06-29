@@ -197,7 +197,7 @@ article,
 }
 
 .resource-list {
-  grid-template-columns: repeat(5, minmax(0, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 }
 
 .resource-list a,
@@ -248,4 +248,3 @@ footer {
     min-height: 64vh;
   }
 }
-
