@@ -41,6 +41,10 @@ Interactive symptom log and PDF tool:
 
 https://gmzx80.github.io/teen-health-awareness-hub/tools/symptom-log.html
 
+Templates hub:
+
+https://gmzx80.github.io/teen-health-awareness-hub/templates/
+
 ## Retrieval Pack
 
 Run this to refresh the source cards:

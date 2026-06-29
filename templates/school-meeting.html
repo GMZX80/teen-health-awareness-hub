@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>School Meeting Notes Tool</title>
+    <meta name="description" content="Interactive school meeting notes template with PDF export for anxiety, school avoidance, SEND and wellbeing discussions.">
+    <link rel="stylesheet" href="../assets/styles.css">
+  </head>
+  <body class="tool-page">
+    <header class="tool-hero">
+      <nav aria-label="Breadcrumb">
+        <a href="../index.html">Guide home</a>
+        <a href="index.html">Templates</a>
+      </nav>
+      <p class="eyebrow">Interactive template</p>
+      <h1>School Meeting Notes</h1>
+      <p class="lede">A structured way to prepare, capture agreed adjustments and leave the meeting with one clear next step.</p>
+    </header>
+
+    <main class="tool-shell">
+      <section class="notice">
+        <div>
+          <p class="eyebrow">Before the meeting</p>
+          <h2>Keep it specific and reviewable</h2>
+          <p>Use this to focus the conversation on observed barriers, support options, named responsibilities and review dates. Avoid turning the form into a diary of private details.</p>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Meeting details</p>
+          <h2>Basic information</h2>
+        </div>
+        <div class="form-grid">
+          <label>
+            Meeting date
+            <input id="meetingDate" type="date">
+          </label>
+          <label>
+            Young person reference
+            <input id="personRef" type="text" placeholder="Optional: initials or leave blank">
+          </label>
+          <label>
+            Meeting purpose
+            <select id="meetingPurpose">
+              <option>School anxiety / attendance support</option>
+              <option>SEND or reasonable adjustments</option>
+              <option>Pastoral support review</option>
+              <option>Health and wellbeing planning</option>
+              <option>Other</option>
+            </select>
+          </label>
+        </div>
+        <label class="wide-label">
+          Attendees or roles
+          <input id="attendees" type="text" placeholder="e.g. parent/carer, form tutor, SENCO, pastoral lead">
+        </label>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">What we are seeing</p>
+          <h2>Observed patterns</h2>
+        </div>
+        <div class="summary-grid">
+          <label>
+            Attendance pattern
+            <textarea id="attendancePattern" rows="4"></textarea>
+          </label>
+          <label>
+            Anxiety or distress signs
+            <textarea id="distressSigns" rows="4"></textarea>
+          </label>
+          <label>
+            Physical symptoms
+            <textarea id="physicalSymptoms" rows="4"></textarea>
+          </label>
+          <label>
+            Times or places that seem hardest
+            <textarea id="hardestTimes" rows="4"></textarea>
+          </label>
+          <label>
+            What helps even a little
+            <textarea id="helps" rows="4"></textarea>
+          </label>
+          <label>
+            Current strengths or protective factors
+            <textarea id="strengths" rows="4"></textarea>
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Questions</p>
+          <h2>Questions for school</h2>
+        </div>
+        <div class="summary-grid">
+          <label>
+            What does school observe before and during distress?
+            <textarea id="schoolObserve" rows="4"></textarea>
+          </label>
+          <label>
+            Are there specific lessons, transitions, rooms, people or times linked to difficulty?
+            <textarea id="specificTriggers" rows="4"></textarea>
+          </label>
+          <label>
+            Is there bullying, friendship issue, sensory issue, academic pressure or unmet SEND need to investigate?
+            <textarea id="investigate" rows="4"></textarea>
+          </label>
+          <label>
+            Who is the named trusted adult?
+            <textarea id="trustedAdult" rows="4"></textarea>
+          </label>
+          <label>
+            What is the simplest way to signal distress?
+            <textarea id="distressSignal" rows="4"></textarea>
+          </label>
+          <label>
+            What should happen if a plan does not work?
+            <textarea id="ifPlanFails" rows="4"></textarea>
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Plan</p>
+          <h2>Agreed adjustments</h2>
+        </div>
+        <div class="summary-grid">
+          <label>
+            Arrival plan
+            <textarea id="arrivalPlan" rows="4"></textarea>
+          </label>
+          <label>
+            Safe space or trusted adult route
+            <textarea id="safeSpace" rows="4"></textarea>
+          </label>
+          <label>
+            Reduced or flexible timetable
+            <textarea id="timetable" rows="4"></textarea>
+          </label>
+          <label>
+            Catch-up work plan
+            <textarea id="catchUp" rows="4"></textarea>
+          </label>
+          <label>
+            Home-school communication route
+            <textarea id="communication" rows="4"></textarea>
+          </label>
+          <label>
+            Review date and success signs
+            <textarea id="reviewDate" rows="4"></textarea>
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Next step</p>
+          <h2>Leave with one clear action</h2>
+        </div>
+        <div class="form-grid">
+          <label>
+            Specific next step
+            <input id="nextStep" type="text">
+          </label>
+          <label>
+            Owner
+            <input id="owner" type="text">
+          </label>
+          <label>
+            When it will be reviewed
+            <input id="reviewWhen" type="text">
+          </label>
+        </div>
+      </section>
+
+      <section class="tool-card">
+        <div class="section-head">
+          <p class="eyebrow">Export</p>
+          <h2>Download a clean PDF</h2>
+          <p>The PDF is generated on this device. Review it before sharing.</p>
+        </div>
+        <div class="button-row">
+          <button type="button" class="primary-action" id="downloadPdf">Download PDF</button>
+          <button type="button" class="secondary-action" id="printPage">Print page</button>
+          <button type="button" class="danger-action" id="clearForm">Clear form</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js"></script>
+    <script src="../assets/school-meeting.js"></script>
+  </body>
+</html>
+
