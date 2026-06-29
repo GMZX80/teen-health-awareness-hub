@@ -336,7 +336,7 @@ textarea {
 
 .log-table {
   width: 100%;
-  min-width: 1180px;
+  min-width: 1120px;
   border-collapse: collapse;
   background: #fff;
 }
@@ -368,6 +368,51 @@ textarea {
   border: 0;
   padding: 0.35rem;
   background: #f8fafb;
+}
+
+.log-entry-main td:nth-child(1) {
+  width: 13%;
+}
+
+.log-entry-main td:nth-child(2),
+.log-entry-main td:nth-child(5),
+.log-entry-main td:nth-child(6) {
+  width: 8%;
+}
+
+.log-entry-main td:nth-child(3),
+.log-entry-main td:nth-child(4),
+.log-entry-main td:nth-child(7),
+.log-entry-main td:nth-child(8) {
+  width: 15%;
+}
+
+.log-entry-main td:last-child {
+  width: 3rem;
+}
+
+.log-entry-notes td {
+  padding: 0.7rem 0.8rem 0.95rem;
+  background: #fbfdfd;
+  border-bottom: 2px solid #bdd3cf;
+}
+
+.notes-field {
+  gap: 0.45rem;
+  color: var(--accent);
+}
+
+.notes-field textarea {
+  min-height: 5.5rem;
+  background:
+    linear-gradient(#f8fafb, #f8fafb) padding-box,
+    repeating-linear-gradient(
+      to bottom,
+      transparent 0,
+      transparent 2rem,
+      rgba(18, 107, 99, 0.12) 2rem,
+      rgba(18, 107, 99, 0.12) calc(2rem + 1px)
+    );
 }
 
 .button-row {
