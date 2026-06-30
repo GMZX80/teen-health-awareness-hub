@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Simplified teenage brain map</title>
+  <desc id="desc">A simple educational diagram showing the prefrontal cortex, limbic system, reward system, hippocampus, brainstem and connecting pathways.</desc>
+  <defs>
+    <linearGradient id="brainFill" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8f4f7"/>
+      <stop offset="1" stop-color="#f5eee8"/>
+    </linearGradient>
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#19212a" flood-opacity="0.16"/>
+    </filter>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#385f9e"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="760" fill="#f8fafb"/>
+  <text x="64" y="70" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="800" fill="#19212a">The teenage brain: useful areas to understand</text>
+  <text x="64" y="108" font-family="Inter, Arial, sans-serif" font-size="20" fill="#5c6875">A simplified map for parent and carer conversations. Real brains are more complex and interconnected.</text>
+
+  <g filter="url(#softShadow)">
+    <path d="M365 548 C270 525 195 447 175 350 C154 244 205 145 302 104 C365 78 427 84 480 115 C529 67 609 53 676 82 C731 106 764 146 780 196 C856 197 920 244 944 313 C973 396 931 485 852 521 C802 544 747 542 701 520 C662 568 595 593 528 580 C494 574 463 561 437 543 C415 552 390 555 365 548 Z" fill="url(#brainFill)" stroke="#8fb3c8" stroke-width="5"/>
+    <path d="M297 238 C350 204 415 202 466 237 C522 195 604 194 662 236 C715 204 785 212 828 260" fill="none" stroke="#b7ccd8" stroke-width="13" stroke-linecap="round"/>
+    <path d="M271 339 C333 304 402 308 457 348 C516 313 594 311 652 350 C712 320 790 326 839 374" fill="none" stroke="#b7ccd8" stroke-width="13" stroke-linecap="round"/>
+    <path d="M323 444 C385 416 449 425 496 467 C556 434 632 435 685 474 C735 452 793 457 835 492" fill="none" stroke="#b7ccd8" stroke-width="13" stroke-linecap="round"/>
+  </g>
+
+  <path d="M305 152 C249 188 221 247 228 320 C238 424 316 501 420 516 C397 461 392 392 413 326 C432 267 469 220 515 190 C462 137 375 107 305 152 Z" fill="#d4fcf2" stroke="#14949c" stroke-width="4"/>
+  <text x="276" y="286" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#126b63">Prefrontal cortex</text>
+  <text x="288" y="319" font-family="Inter, Arial, sans-serif" font-size="18" fill="#126b63">planning, pause button,</text>
+  <text x="310" y="344" font-family="Inter, Arial, sans-serif" font-size="18" fill="#126b63">perspective, choices</text>
+
+  <ellipse cx="613" cy="378" rx="130" ry="91" fill="#ffdecc" stroke="#f04017" stroke-width="4"/>
+  <text x="535" y="367" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="800" fill="#8d3f2f">Limbic system</text>
+  <text x="532" y="400" font-family="Inter, Arial, sans-serif" font-size="18" fill="#8d3f2f">emotion, alarm, threat,</text>
+  <text x="560" y="425" font-family="Inter, Arial, sans-serif" font-size="18" fill="#8d3f2f">motivation</text>
+
+  <circle cx="706" cy="306" r="57" fill="#ffee58" stroke="#c59b00" stroke-width="4"/>
+  <text x="667" y="300" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#6f5300">Reward</text>
+  <text x="659" y="326" font-family="Inter, Arial, sans-serif" font-size="16" fill="#6f5300">dopamine pull</text>
+
+  <path d="M618 475 C676 462 727 486 748 526 C699 549 639 547 590 520 C596 502 604 487 618 475 Z" fill="#f0d9ff" stroke="#7a459f" stroke-width="4"/>
+  <text x="620" y="511" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800" fill="#5f257f">Hippocampus</text>
+  <text x="634" y="536" font-family="Inter, Arial, sans-serif" font-size="16" fill="#5f257f">memory + context</text>
+
+  <path d="M775 500 C820 526 844 576 838 642 C814 656 781 651 764 627 C778 589 770 547 742 517 Z" fill="#d6ffbf" stroke="#40a100" stroke-width="4"/>
+  <text x="842" y="605" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#2d7200">Brainstem</text>
+  <text x="842" y="633" font-family="Inter, Arial, sans-serif" font-size="17" fill="#2d7200">sleep, survival, body state</text>
+
+  <path d="M410 548 C521 611 665 603 767 530" fill="none" stroke="#385f9e" stroke-width="10" stroke-linecap="round" stroke-dasharray="16 16"/>
+  <text x="414" y="640" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="800" fill="#294a7f">Connecting pathways</text>
+  <text x="414" y="668" font-family="Inter, Arial, sans-serif" font-size="17" fill="#294a7f">wiring gets faster and better coordinated with practice, sleep and time</text>
+
+  <g fill="none" stroke="#385f9e" stroke-width="3" marker-end="url(#arrow)">
+    <path d="M240 150 C178 153 129 180 96 228"/>
+    <path d="M714 247 C801 180 900 147 1032 145"/>
+    <path d="M744 381 C842 397 919 437 1006 512"/>
+    <path d="M777 568 C858 585 929 624 1019 682"/>
+  </g>
+
+  <g font-family="Inter, Arial, sans-serif">
+    <rect x="64" y="187" width="210" height="104" rx="8" fill="#ffffff" stroke="#d8e0e7"/>
+    <text x="84" y="222" font-size="19" font-weight="800" fill="#126b63">What adults notice</text>
+    <text x="84" y="253" font-size="16" fill="#5c6875">the brakes can be slow</text>
+    <text x="84" y="276" font-size="16" fill="#5c6875">when feelings are loud</text>
+
+    <rect x="938" y="95" width="204" height="105" rx="8" fill="#ffffff" stroke="#d8e0e7"/>
+    <text x="958" y="130" font-size="19" font-weight="800" fill="#6f5300">Why peers matter</text>
+    <text x="958" y="161" font-size="16" fill="#5c6875">social rewards can</text>
+    <text x="958" y="184" font-size="16" fill="#5c6875">feel extra powerful</text>
+
+    <rect x="966" y="482" width="174" height="99" rx="8" fill="#ffffff" stroke="#d8e0e7"/>
+    <text x="986" y="516" font-size="19" font-weight="800" fill="#8d3f2f">Name it</text>
+    <text x="986" y="547" font-size="16" fill="#5c6875">labelling feelings</text>
+    <text x="986" y="570" font-size="16" fill="#5c6875">can help regulation</text>
+
+    <rect x="942" y="650" width="202" height="61" rx="8" fill="#ffffff" stroke="#d8e0e7"/>
+    <text x="962" y="686" font-size="18" font-weight="800" fill="#2d7200">Body state matters</text>
+  </g>
+</svg>
