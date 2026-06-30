@@ -275,6 +275,62 @@ summary {
   background-size: cover;
 }
 
+.glossary-hero {
+  background:
+    linear-gradient(110deg, rgba(141, 63, 47, 0.92), rgba(25, 33, 42, 0.84)),
+    url("https://images.unsplash.com/photo-1450101499163-c8848c66ca85?auto=format&fit=crop&w=1800&q=80");
+  background-position: center;
+  background-size: cover;
+}
+
+.glossary-grid,
+.role-map,
+.question-bank {
+  display: grid;
+  gap: 1rem;
+}
+
+.glossary-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.role-map,
+.question-bank {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.glossary-grid article,
+.role-map article,
+.question-bank article {
+  min-height: 100%;
+}
+
+.glossary-grid h3 {
+  color: var(--accent-2);
+  font-size: 1.22rem;
+}
+
+.role-map h3,
+.question-bank h3 {
+  color: var(--accent);
+}
+
+.note-template dl {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0;
+}
+
+.note-template dt {
+  color: var(--accent);
+  font-weight: 850;
+}
+
+.note-template dd {
+  margin: 0 0 0.75rem;
+  color: var(--muted);
+}
+
 .ladder {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -594,6 +650,9 @@ textarea {
   .two-column,
   .timeline,
   .ladder,
+  .glossary-grid,
+  .role-map,
+  .question-bank,
   .resource-list,
   .static-sources,
   .form-grid,
