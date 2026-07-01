@@ -283,6 +283,14 @@ summary {
   background-size: cover;
 }
 
+.faq-hero {
+  background:
+    linear-gradient(110deg, rgba(18, 107, 99, 0.94), rgba(56, 95, 158, 0.86)),
+    url("https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=1800&q=80");
+  background-position: center;
+  background-size: cover;
+}
+
 .brain-hero {
   background:
     linear-gradient(110deg, rgba(56, 95, 158, 0.9), rgba(18, 107, 99, 0.84)),
@@ -300,6 +308,28 @@ summary {
 .research-spotlight {
   display: grid;
   gap: 1rem;
+}
+
+.faq-action-grid,
+.faq-list {
+  display: grid;
+  gap: 1rem;
+}
+
+.faq-action-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.faq-list {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.faq-list article {
+  min-height: 100%;
+}
+
+.faq-list h3 {
+  color: var(--accent);
 }
 
 .glossary-grid {
@@ -714,6 +744,8 @@ textarea {
   .principles,
   .three-column,
   .issue-grid,
+  .faq-action-grid,
+  .faq-list,
   .two-column,
   .timeline,
   .ladder,
