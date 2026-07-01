@@ -400,5 +400,41 @@
     "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/how-to-get-support/waiting-for-support/",
     "summary": "NHS advice for children and young people waiting for mental-health support, including updating the service if things change or get worse.",
     "tags": ["NHS", "waiting lists", "mental health"]
+  },
+  {
+    "title": "GOV.UK: carer's leave",
+    "url": "https://www.gov.uk/carers-leave",
+    "summary": "Government guidance on unpaid carer's leave for employees with caring responsibilities.",
+    "tags": ["GOV.UK", "work", "carers"]
+  },
+  {
+    "title": "GOV.UK: parental leave",
+    "url": "https://www.gov.uk/parental-leave",
+    "summary": "Government guidance on unpaid parental leave for employees with children.",
+    "tags": ["GOV.UK", "work", "parents"]
+  },
+  {
+    "title": "NHS: How to care for children with complex needs",
+    "url": "https://www.nhs.uk/social-care-and-support/caring-for-children-and-young-people/how-to-care-for-children-with-complex-needs/",
+    "summary": "NHS guidance on caring for children with complex needs, local authority needs assessments and carer's assessments.",
+    "tags": ["NHS", "complex needs", "carers"]
+  },
+  {
+    "title": "Northumberland: Disabled children statutory social work team",
+    "url": "https://www.northumberland.gov.uk/children-young-people-and-families/childrens-additional-needs-disability/disabled-children",
+    "summary": "Northumberland information on disabled children's social work support, assessments, short breaks and direct payments.",
+    "tags": ["Northumberland", "disabled children", "social care"]
+  },
+  {
+    "title": "Northumberland SEND: short breaks",
+    "url": "https://www.northumberlandsend.co.uk/short-breaks",
+    "summary": "Local Offer information on short breaks, First Contact Team route and Child and Family Assessment.",
+    "tags": ["Northumberland", "short breaks", "SEND"]
+  },
+  {
+    "title": "Northumberland children's services: short breaks guidance",
+    "url": "https://northumberlandcs.trixonline.co.uk/chapter/short-breaks",
+    "summary": "Local short breaks guidance including parent carer needs assessment wording under the Children and Families Act 2014.",
+    "tags": ["Northumberland", "short breaks", "parent carers"]
   }
 ]
