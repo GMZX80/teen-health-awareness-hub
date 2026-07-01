@@ -382,5 +382,23 @@
     "url": "https://www.equalityhumanrights.com/sites/default/files/reasonable_adjustments_for_disabled_pupils_1.pdf",
     "summary": "Technical guidance for schools in England on the reasonable adjustment duty for disabled pupils.",
     "tags": ["EHRC", "Equality Act", "reasonable adjustments"]
+  },
+  {
+    "title": "NHS: Children and young people's mental health services",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/mental-health-services/",
+    "summary": "NHS overview of children and young people's mental-health services, support types, confidentiality and referral routes.",
+    "tags": ["NHS", "children's mental health", "CAMHS"]
+  },
+  {
+    "title": "NHS: Where to get mental health support - children and young people",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/how-to-get-support/where-to-get-support/",
+    "summary": "NHS advice on getting referred, speaking to a GP or school professional, self-referral and what information helps services understand need.",
+    "tags": ["NHS", "referral", "support routes"]
+  },
+  {
+    "title": "NHS: Waiting for mental health support - children and young people",
+    "url": "https://www.nhs.uk/mental-health/children-and-young-adults/mental-health-support/how-to-get-support/waiting-for-support/",
+    "summary": "NHS advice for children and young people waiting for mental-health support, including updating the service if things change or get worse.",
+    "tags": ["NHS", "waiting lists", "mental health"]
   }
 ]
