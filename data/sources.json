@@ -358,5 +358,29 @@
     "url": "https://www.gov.uk/flexible-working",
     "summary": "Government guidance on requesting flexible working.",
     "tags": ["GOV.UK", "work", "flexible working"]
+  },
+  {
+    "title": "DfE: Home-to-school travel statutory guidance",
+    "url": "https://www.gov.uk/government/publications/home-to-school-travel",
+    "summary": "Statutory guidance for local authorities on home-to-school travel, including walking distance, route safety, nearest suitable school and SEND/disability eligibility.",
+    "tags": ["DfE", "school transport", "statutory guidance"]
+  },
+  {
+    "title": "GOV.UK: Disability rights in education",
+    "url": "https://www.gov.uk/rights-disabled-person/education-rights",
+    "summary": "Overview of education providers' duty to make reasonable adjustments so disabled students are not discriminated against.",
+    "tags": ["GOV.UK", "reasonable adjustments", "disability"]
+  },
+  {
+    "title": "DfE: What are reasonable adjustments and how do they help disabled pupils at school?",
+    "url": "https://educationhub.blog.gov.uk/2023/04/what-are-reasonable-adjustments-and-how-do-they-help-disabled-pupils-at-school/",
+    "summary": "Government explainer on reasonable adjustments for disabled pupils and how schools can reduce disadvantage.",
+    "tags": ["DfE", "reasonable adjustments", "school"]
+  },
+  {
+    "title": "EHRC: Reasonable adjustments for disabled pupils",
+    "url": "https://www.equalityhumanrights.com/sites/default/files/reasonable_adjustments_for_disabled_pupils_1.pdf",
+    "summary": "Technical guidance for schools in England on the reasonable adjustment duty for disabled pupils.",
+    "tags": ["EHRC", "Equality Act", "reasonable adjustments"]
   }
 ]
