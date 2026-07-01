@@ -18,6 +18,7 @@ If a young person is at immediate risk of harm, has taken an overdose, has a ser
 - Careful language around school avoidance, anxiety, nausea, self-harm risk, and when to seek help.
 - A Northumberland local-context page for Family Hubs, Togetherness, SEND Local Offer, ADHD/autism resources, and local strategy links.
 - A practical FAQ on school anxiety, SEND, attendance, consent, transport and parent work pressures.
+- Legal, privacy and accessibility pages for public GitHub Pages use.
 - A retrieved source pack in `research/` with access-date metadata, redirects, page headings, and source cards generated from the public links.
 
 ## Working Principles
